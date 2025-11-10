@@ -1,10 +1,10 @@
 # Predicting House Prices Using Random Forest Regression
 
 You are given a dataset housing_data.csv with the following columns:
-
+```
 Area, Bedrooms, Bathrooms, Stories, Parking, Furnishing, Mainroad, Guestroom, Price
-
-Tasks
+```
+## Tasks
 
 - Load and inspect the dataset.
 
