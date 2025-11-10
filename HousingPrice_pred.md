@@ -22,7 +22,7 @@ n_estimators = 200
 
 max_depth = 10
 
-random_state = 0
+random_state = 42
 ```
 
 - Train the model and predict on the test data.
