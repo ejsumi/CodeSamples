@@ -22,16 +22,13 @@ You are given a dataset used_car_prices.csv containing details of used cars list
 ## Task Instructions:
 
 - Load the dataset and perform exploratory data analysis (check shape, data types, summary statistics).
-Handle missing values appropriately:
-
-- For numerical columns: use median imputation
-- For categorical columns: use mode imputation
+- Handle missing values appropriately:
+   - For numerical columns: use median imputation
+   - For categorical columns: use mode imputation
 
 - Encode categorical variables:
-
- Use Label Encoding for Fuel_Type, Transmission, Owner_Type
- Use One-Hot Encoding for Brand (if number of unique brands ≤ 15)
-
+   -  Use Label Encoding for Fuel_Type, Transmission, Owner_Type
+   - Use One-Hot Encoding for Brand (if number of unique brands ≤ 15)
 
 - Create a new feature Car_Age by subtracting Year from current year (2024).
 
