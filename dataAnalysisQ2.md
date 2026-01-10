@@ -4,7 +4,7 @@
 You are given a DataFrame **`electronics_sales`** containing transactional sales data for an electronics retailer. Using pandas, perform the following tasks and print the final output.
 Columns:
 InvoiceID, SaleDate, CustomerID, Region, ProductCategory, Quantity, UnitPrice, DiscountPercent, TotalAmount
-
+Dataset - [electronics_sales](datasets/electronics_sales.csv)
 
 ## **Tasks**
 
