@@ -1,0 +1,121 @@
+
+================================================================================
+PANDAS iloc/loc PRACTICE QUESTIONS
+================================================================================
+
+Dataset: employee_data.csv (20 rows × 5 columns)
+
+Columns:
+- employee_id: Unique employee identifier (string)
+- employee_name: Full name of employee (string)
+- department: Department name (string)
+- salary: Annual salary in USD (integer)
+- years_experience: Years of work experience (integer)
+
+================================================================================
+QUESTION 1: Using iloc (Integer Position-Based Indexing)
+================================================================================
+
+Task: Extract specific data using integer-based positions
+
+a) What is the salary of the 8th employee in the dataset?
+   
+
+b) Extract the employee name and department for the employee at index position 12
+   
+
+c) Get all information for employees at positions 5, 10, and 15
+   
+d) Extract salaries for the first 5 employees
+   
+
+
+================================================================================
+QUESTION 2: Using loc (Label-Based Indexing)
+================================================================================
+
+Task: Extract data using label-based indexing (row index labels and column names)
+
+a) Find the department and years_experience for the employee at row index 14
+  
+b) Extract all columns for employees at row indices 3, 7, and 11
+   
+
+c) Get the employee_name and salary for row index 0
+  
+
+d) Extract the entire row (all columns) for the employee at row index 9
+ 
+
+
+================================================================================
+QUESTION 3: Conditional Selection with loc
+================================================================================
+
+Task: Use loc with boolean conditions to filter and extract data
+
+a) Find all employee names who work in the 'IT' department
+   
+
+b) Extract employee_id, employee_name, and salary for all employees 
+   earning more than $75,000
+   
+
+c) Get the names and departments of employees with more than 7 years of experience
+  
+
+d) Find the salary of the employee named 'Emma Williams'
+
+
+
+================================================================================
+EXPECTED OUTPUT EXAMPLES
+================================================================================
+
+Question 1a Answer:
+68000
+
+Question 1b Answer:
+employee_name    Mia Jackson
+department       Sales
+
+Question 2a Answer:
+department          Marketing
+years_experience    4
+
+Question 3a Answer (partial):
+Michael Chen
+Robert Davis
+Isabella Taylor
+Matthew Martin
+
+Question 3b Answer (should return employees with salary > 75000):
+employee_id  employee_name        salary
+E002         Michael Chen         85000
+E006         Robert Davis         92000
+E007         Sophia Garcia        78000
+...
+
+================================================================================
+PRACTICE TIPS
+================================================================================
+
+1. iloc uses INTEGER positions (0-indexed)
+   - df.iloc[0] = first row
+   - df.iloc[0, 0] = first row, first column
+   - df.iloc[0:5] = first 5 rows
+
+2. loc uses LABELS (row indices and column names)
+   - df.loc[0] = row with index label 0
+   - df.loc[0, 'salary'] = value at row 0, salary column
+   - df.loc[df['department'] == 'IT'] = all IT employees
+
+3. Key Differences:
+   - iloc: df.iloc[0, 3] = row 0, 4th column (integer position)
+   - loc: df.loc[0, 'salary'] = row 0, column named 'salary' (labels)
+
+4. Slicing Behavior:
+   - iloc[0:5] = rows 0,1,2,3,4 (end exclusive)
+   - loc[0:5] = rows 0,1,2,3,4,5 (end inclusive for labels)
+
+================================================================================

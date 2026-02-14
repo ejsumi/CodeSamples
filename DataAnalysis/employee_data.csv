@@ -1,0 +1,21 @@
+employee_id,employee_name,department,salary,years_experience
+E001,Sarah Johnson,Sales,65000,3
+E002,Michael Chen,IT,85000,7
+E003,Emma Williams,HR,58000,2
+E004,James Martinez,Sales,72000,5
+E005,Olivia Brown,Marketing,62000,4
+E006,Robert Davis,IT,92000,10
+E007,Sophia Garcia,Finance,78000,8
+E008,William Rodriguez,Sales,68000,4
+E009,Ava Wilson,HR,55000,1
+E010,David Anderson,Marketing,64000,5
+E011,Isabella Taylor,IT,88000,9
+E012,John Thomas,Finance,81000,6
+E013,Mia Jackson,Sales,70000,5
+E014,Daniel White,HR,57000,2
+E015,Charlotte Harris,Marketing,63000,4
+E016,Matthew Martin,IT,90000,8
+E017,Amelia Thompson,Sales,73000,6
+E018,Joseph Garcia,Finance,79000,7
+E019,Harper Lee,HR,56000,1
+E020,Christopher Moore,Marketing,65000,5

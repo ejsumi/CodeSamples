@@ -1,0 +1,201 @@
+campaign_id,marketing_manager,campaign_specialist,platform,campaign_budget,revenue_generated,impressions,clicks,conversions,campaign_start_date,campaign_type,target_audience
+C1001,Jennifer Martinez,Alex Thompson,Google Ads,5000,25000,150000,4500,125,2024-01-05,Direct Sales,Professionals
+C1002,Jennifer Martinez,Sarah Kim,Facebook,3500,18500,200000,6000,92,2024-01-08,Brand Awareness,Young Adults
+C1003,Jennifer Martinez,Alex Thompson,Instagram,4200,21000,180000,5400,105,2024-01-12,Direct Sales,Young Adults
+C1004,Robert Jackson,Michael Chang,LinkedIn,6500,32500,100000,3000,162,2024-01-06,Lead Gen,Professionals
+C1005,Robert Jackson,Emily Davis,Google Ads,5800,29000,175000,5250,145,2024-01-10,Direct Sales,Professionals
+C1006,Robert Jackson,Michael Chang,TikTok,2800,14000,250000,7500,70,2024-01-15,Brand Awareness,Students
+C1007,Amanda Foster,David Lee,Facebook,4500,22500,190000,5700,112,2024-01-07,Retargeting,Professionals
+C1008,Amanda Foster,Rachel Green,Instagram,3900,19500,165000,4950,97,2024-01-11,Direct Sales,Young Adults
+C1009,Amanda Foster,David Lee,Google Ads,5500,27500,160000,4800,137,2024-01-14,Lead Gen,Professionals
+C1010,Daniel Park,Lisa Wang,LinkedIn,7000,35000,120000,3600,175,2024-01-09,Lead Gen,Professionals
+C1011,Jennifer Martinez,Sarah Kim,Google Ads,4800,24000,165000,4950,120,2024-01-16,Direct Sales,Professionals
+C1012,Jennifer Martinez,Alex Thompson,TikTok,2500,12500,220000,6600,62,2024-01-19,Brand Awareness,Students
+C1013,Robert Jackson,Emily Davis,Facebook,4200,21000,185000,5550,105,2024-01-18,Retargeting,Young Adults
+C1014,Robert Jackson,Michael Chang,Instagram,3800,19000,170000,5100,95,2024-01-22,Direct Sales,Young Adults
+C1015,Amanda Foster,Rachel Green,LinkedIn,6200,31000,110000,3300,155,2024-01-20,Lead Gen,Professionals
+C1016,Amanda Foster,David Lee,TikTok,3100,15500,240000,7200,77,2024-01-23,Brand Awareness,Students
+C1017,Daniel Park,Lisa Wang,Google Ads,5300,26500,155000,4650,132,2024-01-21,Direct Sales,Professionals
+C1018,Daniel Park,James Chen,Facebook,4600,23000,195000,5850,115,2024-01-25,Retargeting,Professionals
+C1019,Jennifer Martinez,Sarah Kim,Instagram,4000,20000,175000,5250,100,2024-01-26,Direct Sales,Young Adults
+C1020,Jennifer Martinez,Alex Thompson,LinkedIn,6800,34000,115000,3450,170,2024-01-28,Lead Gen,Professionals
+C1021,Robert Jackson,Emily Davis,TikTok,2900,14500,235000,7050,72,2024-01-27,Brand Awareness,Students
+C1022,Robert Jackson,Michael Chang,Google Ads,5100,25500,160000,4800,127,2024-01-30,Direct Sales,Professionals
+C1023,Amanda Foster,David Lee,Instagram,3700,18500,168000,5040,92,2024-01-29,Direct Sales,Young Adults
+C1024,Amanda Foster,Rachel Green,Facebook,4300,21500,188000,5640,107,2024-02-01,Retargeting,Young Adults
+C1025,Daniel Park,James Chen,LinkedIn,6600,33000,108000,3240,165,2024-02-02,Lead Gen,Professionals
+C1026,Daniel Park,Lisa Wang,TikTok,3000,15000,245000,7350,75,2024-02-04,Brand Awareness,Students
+C1027,Jennifer Martinez,Alex Thompson,Google Ads,4900,24500,158000,4740,122,2024-02-03,Direct Sales,Professionals
+C1028,Jennifer Martinez,Sarah Kim,Facebook,3600,18000,198000,5940,90,2024-02-06,Brand Awareness,Young Adults
+C1029,Robert Jackson,Michael Chang,Instagram,4100,20500,178000,5340,102,2024-02-05,Direct Sales,Young Adults
+C1030,Robert Jackson,Emily Davis,LinkedIn,6400,32000,105000,3150,160,2024-02-08,Lead Gen,Professionals
+C1031,Amanda Foster,Rachel Green,Google Ads,5200,26000,162000,4860,130,2024-02-07,Direct Sales,Professionals
+C1032,Amanda Foster,David Lee,TikTok,2700,13500,230000,6900,67,2024-02-10,Brand Awareness,Students
+C1033,Daniel Park,Lisa Wang,Facebook,4400,22000,192000,5760,110,2024-02-09,Retargeting,Professionals
+C1034,Daniel Park,James Chen,Instagram,3850,19250,172000,5160,96,2024-02-12,Direct Sales,Young Adults
+C1035,Jennifer Martinez,Sarah Kim,LinkedIn,6700,33500,112000,3360,167,2024-02-11,Lead Gen,Professionals
+C1036,Jennifer Martinez,Alex Thompson,TikTok,2850,14250,238000,7140,71,2024-02-14,Brand Awareness,Students
+C1037,Robert Jackson,Emily Davis,Google Ads,5000,25000,163000,4890,125,2024-02-13,Direct Sales,Professionals
+C1038,Robert Jackson,Michael Chang,Facebook,4250,21250,190000,5700,106,2024-02-16,Retargeting,Young Adults
+C1039,Amanda Foster,David Lee,Instagram,3950,19750,174000,5220,98,2024-02-15,Direct Sales,Young Adults
+C1040,Amanda Foster,Rachel Green,LinkedIn,6300,31500,109000,3270,157,2024-02-18,Lead Gen,Professionals
+C1041,Daniel Park,James Chen,Google Ads,5400,27000,159000,4770,135,2024-02-17,Direct Sales,Professionals
+C1042,Daniel Park,Lisa Wang,TikTok,3050,15250,242000,7260,76,2024-02-20,Brand Awareness,Students
+C1043,Jennifer Martinez,Alex Thompson,Facebook,4500,22500,194000,5820,112,2024-02-19,Retargeting,Professionals
+C1044,Jennifer Martinez,Sarah Kim,Instagram,4050,20250,176000,5280,101,2024-02-22,Direct Sales,Young Adults
+C1045,Robert Jackson,Michael Chang,LinkedIn,6550,32750,106000,3180,163,2024-02-21,Lead Gen,Professionals
+C1046,Robert Jackson,Emily Davis,TikTok,2950,14750,236000,7080,73,2024-02-24,Brand Awareness,Students
+C1047,Amanda Foster,Rachel Green,Google Ads,5150,25750,161000,4830,128,2024-02-23,Direct Sales,Professionals
+C1048,Amanda Foster,David Lee,Facebook,4350,21750,191000,5730,108,2024-02-26,Retargeting,Young Adults
+C1049,Daniel Park,Lisa Wang,Instagram,3900,19500,173000,5190,97,2024-02-25,Direct Sales,Young Adults
+C1050,Daniel Park,James Chen,LinkedIn,6650,33250,110000,3300,166,2024-02-28,Lead Gen,Professionals
+C1051,Jennifer Martinez,Sarah Kim,Google Ads,4950,24750,164000,4920,123,2024-02-27,Direct Sales,Professionals
+C1052,Jennifer Martinez,Alex Thompson,TikTok,2800,14000,240000,7200,70,2024-03-01,Brand Awareness,Students
+C1053,Robert Jackson,Emily Davis,Facebook,4200,21000,193000,5790,105,2024-03-02,Retargeting,Young Adults
+C1054,Robert Jackson,Michael Chang,Instagram,4000,20000,177000,5310,100,2024-03-04,Direct Sales,Young Adults
+C1055,Amanda Foster,David Lee,LinkedIn,6450,32250,107000,3210,161,2024-03-03,Lead Gen,Professionals
+C1056,Amanda Foster,Rachel Green,TikTok,2900,14500,237000,7110,72,2024-03-06,Brand Awareness,Students
+C1057,Daniel Park,James Chen,Google Ads,5250,26250,162000,4860,131,2024-03-05,Direct Sales,Professionals
+C1058,Daniel Park,Lisa Wang,Facebook,4450,22250,195000,5850,111,2024-03-08,Retargeting,Professionals
+C1059,Jennifer Martinez,Alex Thompson,Instagram,3950,19750,175000,5250,98,2024-03-07,Direct Sales,Young Adults
+C1060,Jennifer Martinez,Sarah Kim,LinkedIn,6750,33750,113000,3390,168,2024-03-10,Lead Gen,Professionals
+C1061,Robert Jackson,Michael Chang,Google Ads,5050,25250,165000,4950,126,2024-03-09,Direct Sales,Professionals
+C1062,Robert Jackson,Emily Davis,TikTok,2850,14250,241000,7230,71,2024-03-12,Brand Awareness,Students
+C1063,Amanda Foster,Rachel Green,Facebook,4300,21500,192000,5760,107,2024-03-11,Retargeting,Young Adults
+C1064,Amanda Foster,David Lee,Instagram,3850,19250,174000,5220,96,2024-03-14,Direct Sales,Young Adults
+C1065,Daniel Park,Lisa Wang,LinkedIn,6600,33000,111000,3330,165,2024-03-13,Lead Gen,Professionals
+C1066,Daniel Park,James Chen,TikTok,3000,15000,243000,7290,75,2024-03-16,Brand Awareness,Students
+C1067,Jennifer Martinez,Sarah Kim,Google Ads,5100,25500,166000,4980,127,2024-03-15,Direct Sales,Professionals
+C1068,Jennifer Martinez,Alex Thompson,Facebook,4400,22000,196000,5880,110,2024-03-18,Retargeting,Professionals
+C1069,Robert Jackson,Emily Davis,Instagram,3900,19500,176000,5280,97,2024-03-17,Direct Sales,Young Adults
+C1070,Robert Jackson,Michael Chang,LinkedIn,6500,32500,108000,3240,162,2024-03-20,Lead Gen,Professionals
+C1071,Amanda Foster,David Lee,Google Ads,5200,26000,163000,4890,130,2024-03-19,Direct Sales,Professionals
+C1072,Amanda Foster,Rachel Green,TikTok,2950,14750,239000,7170,73,2024-03-22,Brand Awareness,Students
+C1073,Daniel Park,James Chen,Facebook,4350,21750,194000,5820,108,2024-03-21,Retargeting,Young Adults
+C1074,Daniel Park,Lisa Wang,Instagram,3950,19750,175000,5250,98,2024-03-24,Direct Sales,Young Adults
+C1075,Jennifer Martinez,Alex Thompson,LinkedIn,6700,33500,112000,3360,167,2024-03-23,Lead Gen,Professionals
+C1076,Jennifer Martinez,Sarah Kim,TikTok,2900,14500,242000,7260,72,2024-03-26,Brand Awareness,Students
+C1077,Robert Jackson,Michael Chang,Google Ads,5150,25750,167000,5010,128,2024-03-25,Direct Sales,Professionals
+C1078,Robert Jackson,Emily Davis,Facebook,4250,21250,197000,5910,106,2024-03-28,Retargeting,Young Adults
+C1079,Amanda Foster,Rachel Green,Instagram,3900,19500,177000,5310,97,2024-03-27,Direct Sales,Young Adults
+C1080,Amanda Foster,David Lee,LinkedIn,6550,32750,109000,3270,163,2024-03-30,Lead Gen,Professionals
+C1081,Daniel Park,Lisa Wang,Google Ads,5300,26500,164000,4920,132,2024-03-29,Direct Sales,Professionals
+C1082,Daniel Park,James Chen,TikTok,2850,14250,240000,7200,71,2024-03-31,Brand Awareness,Students
+C1083,Jennifer Martinez,Sarah Kim,Facebook,4350,21750,195000,5850,108,2024-01-17,Retargeting,Young Adults
+C1084,Jennifer Martinez,Alex Thompson,Google Ads,5200,26000,166000,4980,130,2024-01-20,Direct Sales,Professionals
+C1085,Robert Jackson,Emily Davis,Instagram,3950,19750,178000,5340,98,2024-01-24,Direct Sales,Young Adults
+C1086,Robert Jackson,Michael Chang,LinkedIn,6450,32250,107000,3210,161,2024-01-26,Lead Gen,Professionals
+C1087,Amanda Foster,David Lee,TikTok,2950,14750,238000,7140,73,2024-01-31,Brand Awareness,Students
+C1088,Amanda Foster,Rachel Green,Google Ads,5100,25500,164000,4920,127,2024-02-03,Direct Sales,Professionals
+C1089,Daniel Park,James Chen,Facebook,4400,22000,193000,5790,110,2024-02-06,Retargeting,Professionals
+C1090,Daniel Park,Lisa Wang,Instagram,3850,19250,175000,5250,96,2024-02-09,Direct Sales,Young Adults
+C1091,Jennifer Martinez,Alex Thompson,LinkedIn,6600,33000,111000,3330,165,2024-02-12,Lead Gen,Professionals
+C1092,Jennifer Martinez,Sarah Kim,TikTok,2800,14000,241000,7230,70,2024-02-15,Brand Awareness,Students
+C1093,Robert Jackson,Michael Chang,Google Ads,5050,25250,165000,4950,126,2024-02-18,Direct Sales,Professionals
+C1094,Robert Jackson,Emily Davis,Facebook,4300,21500,194000,5820,107,2024-02-21,Retargeting,Young Adults
+C1095,Amanda Foster,Rachel Green,Instagram,3900,19500,176000,5280,97,2024-02-24,Direct Sales,Young Adults
+C1096,Amanda Foster,David Lee,LinkedIn,6500,32500,108000,3240,162,2024-02-27,Lead Gen,Professionals
+C1097,Daniel Park,Lisa Wang,Google Ads,5250,26250,163000,4890,131,2024-03-02,Direct Sales,Professionals
+C1098,Daniel Park,James Chen,TikTok,2900,14500,239000,7170,72,2024-03-05,Brand Awareness,Students
+C1099,Jennifer Martinez,Sarah Kim,Facebook,4350,21750,195000,5850,108,2024-03-08,Retargeting,Young Adults
+C1100,Jennifer Martinez,Alex Thompson,Instagram,3950,19750,177000,5310,98,2024-03-11,Direct Sales,Young Adults
+C1101,Robert Jackson,Emily Davis,LinkedIn,6550,32750,109000,3270,163,2024-03-14,Lead Gen,Professionals
+C1102,Robert Jackson,Michael Chang,TikTok,2850,14250,240000,7200,71,2024-03-17,Brand Awareness,Students
+C1103,Amanda Foster,David Lee,Google Ads,5150,25750,165000,4950,128,2024-03-20,Direct Sales,Professionals
+C1104,Amanda Foster,Rachel Green,Facebook,4300,21500,196000,5880,107,2024-03-23,Retargeting,Young Adults
+C1105,Daniel Park,James Chen,Instagram,3900,19500,178000,5340,97,2024-03-26,Direct Sales,Young Adults
+C1106,Daniel Park,Lisa Wang,LinkedIn,6650,33250,110000,3300,166,2024-03-29,Lead Gen,Professionals
+C1107,Jennifer Martinez,Alex Thompson,Google Ads,5100,25500,167000,5010,127,2024-01-13,Direct Sales,Professionals
+C1108,Jennifer Martinez,Sarah Kim,TikTok,2900,14500,243000,7290,72,2024-01-21,Brand Awareness,Students
+C1109,Robert Jackson,Michael Chang,Facebook,4250,21250,198000,5940,106,2024-01-28,Retargeting,Young Adults
+C1110,Robert Jackson,Emily Davis,Instagram,3900,19500,179000,5370,97,2024-02-01,Direct Sales,Young Adults
+C1111,Amanda Foster,Rachel Green,LinkedIn,6600,33000,112000,3360,165,2024-02-05,Lead Gen,Professionals
+C1112,Amanda Foster,David Lee,TikTok,2850,14250,244000,7320,71,2024-02-08,Brand Awareness,Students
+C1113,Daniel Park,Lisa Wang,Google Ads,5200,26000,168000,5040,130,2024-02-11,Direct Sales,Professionals
+C1114,Daniel Park,James Chen,Facebook,4400,22000,197000,5910,110,2024-02-14,Retargeting,Professionals
+C1115,Jennifer Martinez,Sarah Kim,Instagram,3950,19750,179000,5370,98,2024-02-17,Direct Sales,Young Adults
+C1116,Jennifer Martinez,Alex Thompson,LinkedIn,6700,33500,113000,3390,167,2024-02-20,Lead Gen,Professionals
+C1117,Robert Jackson,Emily Davis,Google Ads,5150,25750,169000,5070,128,2024-02-23,Direct Sales,Professionals
+C1118,Robert Jackson,Michael Chang,TikTok,2950,14750,245000,7350,73,2024-02-26,Brand Awareness,Students
+C1119,Amanda Foster,David Lee,Facebook,4350,21750,198000,5940,108,2024-03-01,Retargeting,Young Adults
+C1120,Amanda Foster,Rachel Green,Instagram,3900,19500,179000,5370,97,2024-03-04,Direct Sales,Young Adults
+C1121,Daniel Park,James Chen,LinkedIn,6650,33250,114000,3420,166,2024-03-07,Lead Gen,Professionals
+C1122,Daniel Park,Lisa Wang,TikTok,2850,14250,246000,7380,71,2024-03-10,Brand Awareness,Students
+C1123,Jennifer Martinez,Alex Thompson,Google Ads,5200,26000,170000,5100,130,2024-03-13,Direct Sales,Professionals
+C1124,Jennifer Martinez,Sarah Kim,Facebook,4450,22250,199000,5970,111,2024-03-16,Retargeting,Professionals
+C1125,Robert Jackson,Michael Chang,Instagram,3950,19750,180000,5400,98,2024-03-19,Direct Sales,Young Adults
+C1126,Robert Jackson,Emily Davis,LinkedIn,6700,33500,115000,3450,167,2024-03-22,Lead Gen,Professionals
+C1127,Amanda Foster,Rachel Green,Google Ads,5250,26250,171000,5130,131,2024-03-25,Direct Sales,Professionals
+C1128,Amanda Foster,David Lee,TikTok,2900,14500,247000,7410,72,2024-03-28,Brand Awareness,Students
+C1129,Daniel Park,Lisa Wang,Facebook,4400,22000,200000,6000,110,2024-03-31,Retargeting,Young Adults
+C1130,Daniel Park,James Chen,Instagram,3950,19750,181000,5430,98,2024-01-18,Direct Sales,Young Adults
+C1131,Jennifer Martinez,Sarah Kim,LinkedIn,6650,33250,116000,3480,166,2024-01-22,Lead Gen,Professionals
+C1132,Jennifer Martinez,Alex Thompson,TikTok,2850,14250,248000,7440,71,2024-01-25,Brand Awareness,Students
+C1133,Robert Jackson,Emily Davis,Google Ads,5150,25750,172000,5160,128,2024-01-29,Direct Sales,Professionals
+C1134,Robert Jackson,Michael Chang,Facebook,4350,21750,201000,6030,108,2024-02-02,Retargeting,Young Adults
+C1135,Amanda Foster,David Lee,Instagram,3900,19500,182000,5460,97,2024-02-06,Direct Sales,Young Adults
+C1136,Amanda Foster,Rachel Green,LinkedIn,6600,33000,117000,3510,165,2024-02-10,Lead Gen,Professionals
+C1137,Daniel Park,James Chen,Google Ads,5300,26500,173000,5190,132,2024-02-13,Direct Sales,Professionals
+C1138,Daniel Park,Lisa Wang,TikTok,2900,14500,249000,7470,72,2024-02-16,Brand Awareness,Students
+C1139,Jennifer Martinez,Alex Thompson,Facebook,4400,22000,202000,6060,110,2024-02-19,Retargeting,Professionals
+C1140,Jennifer Martinez,Sarah Kim,Instagram,3950,19750,183000,5490,98,2024-02-22,Direct Sales,Young Adults
+C1141,Robert Jackson,Michael Chang,LinkedIn,6700,33500,118000,3540,167,2024-02-25,Lead Gen,Professionals
+C1142,Robert Jackson,Emily Davis,TikTok,2850,14250,250000,7500,71,2024-02-28,Brand Awareness,Students
+C1143,Amanda Foster,Rachel Green,Google Ads,5200,26000,174000,5220,130,2024-03-03,Direct Sales,Professionals
+C1144,Amanda Foster,David Lee,Facebook,4350,21750,203000,6090,108,2024-03-06,Retargeting,Young Adults
+C1145,Daniel Park,Lisa Wang,Instagram,3900,19500,184000,5520,97,2024-03-09,Direct Sales,Young Adults
+C1146,Daniel Park,James Chen,LinkedIn,6650,33250,119000,3570,166,2024-03-12,Lead Gen,Professionals
+C1147,Jennifer Martinez,Sarah Kim,Google Ads,5250,26250,175000,5250,131,2024-03-15,Direct Sales,Professionals
+C1148,Jennifer Martinez,Alex Thompson,TikTok,2900,14500,251000,7530,72,2024-03-18,Brand Awareness,Students
+C1149,Robert Jackson,Emily Davis,Facebook,4400,22000,204000,6120,110,2024-03-21,Retargeting,Professionals
+C1150,Robert Jackson,Michael Chang,Instagram,3950,19750,185000,5550,98,2024-03-24,Direct Sales,Young Adults
+C1151,Amanda Foster,David Lee,LinkedIn,6700,33500,120000,3600,167,2024-03-27,Lead Gen,Professionals
+C1152,Amanda Foster,Rachel Green,TikTok,2850,14250,252000,7560,71,2024-03-30,Brand Awareness,Students
+C1153,Daniel Park,James Chen,Google Ads,5200,26000,176000,5280,130,2024-01-23,Direct Sales,Professionals
+C1154,Daniel Park,Lisa Wang,Facebook,4450,22250,205000,6150,111,2024-01-27,Retargeting,Young Adults
+C1155,Jennifer Martinez,Alex Thompson,Instagram,3950,19750,186000,5580,98,2024-01-31,Direct Sales,Young Adults
+C1156,Jennifer Martinez,Sarah Kim,LinkedIn,6700,33500,121000,3630,167,2024-02-04,Lead Gen,Professionals
+C1157,Robert Jackson,Michael Chang,TikTok,2900,14500,253000,7590,72,2024-02-07,Brand Awareness,Students
+C1158,Robert Jackson,Emily Davis,Google Ads,5250,26250,177000,5310,131,2024-02-11,Direct Sales,Professionals
+C1159,Amanda Foster,Rachel Green,Facebook,4400,22000,206000,6180,110,2024-02-15,Retargeting,Professionals
+C1160,Amanda Foster,David Lee,Instagram,3950,19750,187000,5610,98,2024-02-19,Direct Sales,Young Adults
+C1161,Daniel Park,Lisa Wang,LinkedIn,6650,33250,122000,3660,166,2024-02-22,Lead Gen,Professionals
+C1162,Daniel Park,James Chen,TikTok,2850,14250,254000,7620,71,2024-02-26,Brand Awareness,Students
+C1163,Jennifer Martinez,Sarah Kim,Google Ads,5200,26000,178000,5340,130,2024-03-01,Direct Sales,Professionals
+C1164,Jennifer Martinez,Alex Thompson,Facebook,4350,21750,207000,6210,108,2024-03-05,Retargeting,Young Adults
+C1165,Robert Jackson,Emily Davis,Instagram,3900,19500,188000,5640,97,2024-03-09,Direct Sales,Young Adults
+C1166,Robert Jackson,Michael Chang,LinkedIn,6700,33500,123000,3690,167,2024-03-12,Lead Gen,Professionals
+C1167,Amanda Foster,David Lee,Google Ads,5250,26250,179000,5370,131,2024-03-16,Direct Sales,Professionals
+C1168,Amanda Foster,Rachel Green,TikTok,2900,14500,255000,7650,72,2024-03-20,Brand Awareness,Students
+C1169,Daniel Park,James Chen,Facebook,4400,22000,208000,6240,110,2024-03-23,Retargeting,Professionals
+C1170,Daniel Park,Lisa Wang,Instagram,3950,19750,189000,5670,98,2024-03-27,Direct Sales,Young Adults
+C1171,Jennifer Martinez,Alex Thompson,LinkedIn,6650,33250,124000,3720,166,2024-01-14,Lead Gen,Professionals
+C1172,Jennifer Martinez,Sarah Kim,TikTok,2850,14250,256000,7680,71,2024-01-19,Brand Awareness,Students
+C1173,Robert Jackson,Michael Chang,Google Ads,5200,26000,180000,5400,130,2024-01-23,Direct Sales,Professionals
+C1174,Robert Jackson,Emily Davis,Facebook,4350,21750,209000,6270,108,2024-01-26,Retargeting,Young Adults
+C1175,Amanda Foster,Rachel Green,Instagram,3900,19500,190000,5700,97,2024-02-01,Direct Sales,Young Adults
+C1176,Amanda Foster,David Lee,LinkedIn,6700,33500,125000,3750,167,2024-02-04,Lead Gen,Professionals
+C1177,Daniel Park,Lisa Wang,Google Ads,5300,26500,181000,5430,132,2024-02-08,Direct Sales,Professionals
+C1178,Daniel Park,James Chen,TikTok,2900,14500,257000,7710,72,2024-02-12,Brand Awareness,Students
+C1179,Jennifer Martinez,Sarah Kim,Facebook,4400,22000,210000,6300,110,2024-02-16,Retargeting,Professionals
+C1180,Jennifer Martinez,Alex Thompson,Instagram,3950,19750,191000,5730,98,2024-02-20,Direct Sales,Young Adults
+C1181,Robert Jackson,Emily Davis,LinkedIn,6700,33500,126000,3780,167,2024-02-23,Lead Gen,Professionals
+C1182,Robert Jackson,Michael Chang,TikTok,2850,14250,258000,7740,71,2024-02-27,Brand Awareness,Students
+C1183,Amanda Foster,David Lee,Google Ads,5200,26000,182000,5460,130,2024-03-03,Direct Sales,Professionals
+C1184,Amanda Foster,Rachel Green,Facebook,4350,21750,211000,6330,108,2024-03-07,Retargeting,Young Adults
+C1185,Daniel Park,James Chen,Instagram,3900,19500,192000,5760,97,2024-03-11,Direct Sales,Young Adults
+C1186,Daniel Park,Lisa Wang,LinkedIn,6650,33250,127000,3810,166,2024-03-15,Lead Gen,Professionals
+C1187,Jennifer Martinez,Alex Thompson,Google Ads,5250,26250,183000,5490,131,2024-03-19,Direct Sales,Professionals
+C1188,Jennifer Martinez,Sarah Kim,TikTok,2900,14500,259000,7770,72,2024-03-22,Brand Awareness,Students
+C1189,Robert Jackson,Michael Chang,Facebook,4400,22000,212000,6360,110,2024-03-26,Retargeting,Professionals
+C1190,Robert Jackson,Emily Davis,Instagram,3950,19750,193000,5790,98,2024-03-30,Direct Sales,Young Adults
+C1191,Amanda Foster,Rachel Green,LinkedIn,6700,33500,128000,3840,167,2024-01-24,Lead Gen,Professionals
+C1192,Amanda Foster,David Lee,TikTok,2850,14250,260000,7800,71,2024-01-28,Brand Awareness,Students
+C1193,Daniel Park,Lisa Wang,Google Ads,5200,26000,184000,5520,130,2024-02-02,Direct Sales,Professionals
+C1194,Daniel Park,James Chen,Facebook,4350,21750,213000,6390,108,2024-02-05,Retargeting,Young Adults
+C1195,Jennifer Martinez,Sarah Kim,Instagram,3900,19500,194000,5820,97,2024-02-09,Direct Sales,Young Adults
+C1196,Jennifer Martinez,Alex Thompson,LinkedIn,6650,33250,129000,3870,166,2024-02-13,Lead Gen,Professionals
+C1197,Robert Jackson,Emily Davis,Google Ads,5250,26250,185000,5550,131,2024-02-17,Direct Sales,Professionals
+C1198,Robert Jackson,Michael Chang,TikTok,2900,14500,261000,7830,72,2024-02-21,Brand Awareness,Students
+C1199,Amanda Foster,David Lee,Facebook,4400,22000,214000,6420,110,2024-02-25,Retargeting,Professionals
+C1200,Amanda Foster,Rachel Green,Instagram,3950,19750,195000,5850,98,2024-02-29,Direct Sales,Young Adults

@@ -1,0 +1,251 @@
+ticket_id,support_agent,team_lead,department,resolution_time_hours,ticket_date,priority_level,customer_satisfaction,ticket_category
+T1001,Sarah Chen,Amanda Rodriguez,Technical,3.5,2024-01-05,High,5,Bug
+T1002,Sarah Chen,Amanda Rodriguez,Technical,2.2,2024-01-08,Medium,4,Question
+T1003,Mike Johnson,Amanda Rodriguez,Technical,5.8,2024-01-12,Critical,3,Bug
+T1004,Lisa Park,Amanda Rodriguez,Technical,1.5,2024-01-15,Low,5,Question
+T1005,Kevin Zhang,Amanda Rodriguez,Technical,4.2,2024-01-18,Medium,4,Feature Request
+T1006,Rachel Green,Amanda Rodriguez,Technical,6.3,2024-01-22,Critical,2,Bug
+T1007,Sarah Chen,Amanda Rodriguez,Technical,2.8,2024-01-25,Medium,5,Question
+T1008,Mike Johnson,Amanda Rodriguez,Technical,3.9,2024-01-28,High,4,Bug
+T1009,Lisa Park,Amanda Rodriguez,Technical,1.2,2024-02-02,Low,5,Question
+T1010,Kevin Zhang,Amanda Rodriguez,Technical,5.5,2024-02-05,Critical,3,Bug
+T1011,Rachel Green,Amanda Rodriguez,Technical,2.9,2024-02-08,Medium,4,Question
+T1012,Sarah Chen,Amanda Rodriguez,Technical,4.1,2024-02-12,High,5,Feature Request
+T1013,Mike Johnson,Amanda Rodriguez,Technical,1.8,2024-02-15,Low,5,Question
+T1014,Lisa Park,Amanda Rodriguez,Technical,6.7,2024-02-18,Critical,2,Bug
+T1015,Kevin Zhang,Amanda Rodriguez,Technical,3.3,2024-02-22,Medium,4,Question
+T1016,Rachel Green,Amanda Rodriguez,Technical,2.5,2024-02-25,Low,5,Question
+T1017,Sarah Chen,Amanda Rodriguez,Technical,5.2,2024-02-28,High,4,Bug
+T1018,Mike Johnson,Amanda Rodriguez,Technical,3.7,2024-03-03,Medium,5,Feature Request
+T1019,Lisa Park,Amanda Rodriguez,Technical,4.4,2024-03-06,High,4,Bug
+T1020,Kevin Zhang,Amanda Rodriguez,Technical,1.9,2024-03-09,Low,5,Question
+T1021,Rachel Green,Amanda Rodriguez,Technical,7.1,2024-03-12,Critical,3,Bug
+T1022,Sarah Chen,Amanda Rodriguez,Technical,2.6,2024-03-15,Medium,4,Question
+T1023,Mike Johnson,Amanda Rodriguez,Technical,3.8,2024-03-18,High,5,Bug
+T1024,Lisa Park,Amanda Rodriguez,Technical,1.4,2024-03-21,Low,5,Question
+T1025,Kevin Zhang,Amanda Rodriguez,Technical,5.9,2024-03-24,Critical,2,Bug
+T1026,Rachel Green,Amanda Rodriguez,Technical,3.1,2024-03-27,Medium,4,Question
+T1027,Sarah Chen,Amanda Rodriguez,Technical,2.3,2024-03-30,Low,5,Question
+T1028,Mike Johnson,Amanda Rodriguez,Technical,4.6,2024-01-07,High,4,Feature Request
+T1029,Lisa Park,Amanda Rodriguez,Technical,1.7,2024-01-10,Medium,5,Question
+T1030,Kevin Zhang,Amanda Rodriguez,Technical,6.2,2024-01-14,Critical,3,Bug
+T1031,Rachel Green,Amanda Rodriguez,Technical,2.8,2024-01-17,Low,5,Question
+T1032,Sarah Chen,Amanda Rodriguez,Technical,3.9,2024-01-20,High,4,Bug
+T1033,Mike Johnson,Amanda Rodriguez,Technical,1.5,2024-01-24,Medium,5,Question
+T1034,Lisa Park,Amanda Rodriguez,Technical,5.3,2024-01-27,Critical,2,Bug
+T1035,Kevin Zhang,Amanda Rodriguez,Technical,2.4,2024-01-31,Low,5,Question
+T1036,Rachel Green,Amanda Rodriguez,Technical,4.7,2024-02-04,High,4,Feature Request
+T1037,Sarah Chen,Amanda Rodriguez,Technical,3.2,2024-02-07,Medium,5,Question
+T1038,Mike Johnson,Amanda Rodriguez,Technical,1.9,2024-02-11,Low,5,Question
+T1039,Lisa Park,Amanda Rodriguez,Technical,6.8,2024-02-14,Critical,3,Bug
+T1040,Kevin Zhang,Amanda Rodriguez,Technical,2.7,2024-02-17,Medium,4,Question
+T1041,Rachel Green,Amanda Rodriguez,Technical,3.5,2024-02-21,High,5,Bug
+T1042,Sarah Chen,Amanda Rodriguez,Technical,1.3,2024-02-24,Low,5,Question
+T1043,Mike Johnson,Amanda Rodriguez,Technical,5.6,2024-02-27,Critical,2,Bug
+T1044,Lisa Park,Amanda Rodriguez,Technical,2.9,2024-03-02,Medium,4,Question
+T1045,Kevin Zhang,Amanda Rodriguez,Technical,4.2,2024-03-05,High,5,Feature Request
+T1046,Rachel Green,Amanda Rodriguez,Technical,1.6,2024-03-08,Low,5,Question
+T1047,Sarah Chen,Amanda Rodriguez,Technical,3.8,2024-03-11,Medium,4,Bug
+T1048,Mike Johnson,Amanda Rodriguez,Technical,6.4,2024-03-14,Critical,3,Bug
+T1049,Lisa Park,Amanda Rodriguez,Technical,2.5,2024-03-17,Low,5,Question
+T1050,Kevin Zhang,Amanda Rodriguez,Technical,3.9,2024-03-20,High,4,Bug
+T1051,David Kumar,Brian Foster,Billing,4.2,2024-01-06,Medium,4,Complaint
+T1052,Emily Watson,Brian Foster,Billing,6.5,2024-01-09,Critical,2,Complaint
+T1053,Carlos Martinez,Brian Foster,Billing,3.1,2024-01-13,Medium,4,Question
+T1054,Nina Patel,Brian Foster,Billing,2.8,2024-01-16,Low,5,Question
+T1055,David Kumar,Brian Foster,Billing,5.3,2024-01-20,High,3,Complaint
+T1056,Emily Watson,Brian Foster,Billing,3.7,2024-01-23,Medium,4,Question
+T1057,Carlos Martinez,Brian Foster,Billing,1.9,2024-01-27,Low,5,Question
+T1058,Nina Patel,Brian Foster,Billing,7.2,2024-01-30,Critical,2,Complaint
+T1059,David Kumar,Brian Foster,Billing,4.5,2024-02-03,High,4,Complaint
+T1060,Emily Watson,Brian Foster,Billing,2.6,2024-02-06,Medium,5,Question
+T1061,Carlos Martinez,Brian Foster,Billing,3.8,2024-02-10,High,4,Complaint
+T1062,Nina Patel,Brian Foster,Billing,1.7,2024-02-13,Low,5,Question
+T1063,David Kumar,Brian Foster,Billing,6.1,2024-02-16,Critical,3,Complaint
+T1064,Emily Watson,Brian Foster,Billing,3.4,2024-02-20,Medium,4,Question
+T1065,Carlos Martinez,Brian Foster,Billing,2.2,2024-02-23,Low,5,Question
+T1066,Nina Patel,Brian Foster,Billing,5.7,2024-02-26,High,3,Complaint
+T1067,David Kumar,Brian Foster,Billing,3.9,2024-03-01,Medium,4,Question
+T1068,Emily Watson,Brian Foster,Billing,1.5,2024-03-04,Low,5,Question
+T1069,Carlos Martinez,Brian Foster,Billing,6.8,2024-03-07,Critical,2,Complaint
+T1070,Nina Patel,Brian Foster,Billing,4.3,2024-03-10,High,4,Complaint
+T1071,David Kumar,Brian Foster,Billing,2.9,2024-03-13,Medium,5,Question
+T1072,Emily Watson,Brian Foster,Billing,3.6,2024-03-16,High,4,Complaint
+T1073,Carlos Martinez,Brian Foster,Billing,1.8,2024-03-19,Low,5,Question
+T1074,Nina Patel,Brian Foster,Billing,5.4,2024-03-22,Critical,3,Complaint
+T1075,David Kumar,Brian Foster,Billing,2.7,2024-03-25,Medium,4,Question
+T1076,Emily Watson,Brian Foster,Billing,4.1,2024-03-28,High,5,Question
+T1077,Carlos Martinez,Brian Foster,Billing,1.6,2024-03-31,Low,5,Question
+T1078,Nina Patel,Brian Foster,Billing,6.3,2024-01-08,Critical,2,Complaint
+T1079,David Kumar,Brian Foster,Billing,3.5,2024-01-11,Medium,4,Question
+T1080,Emily Watson,Brian Foster,Billing,2.4,2024-01-15,Low,5,Question
+T1081,Carlos Martinez,Brian Foster,Billing,5.8,2024-01-18,High,3,Complaint
+T1082,Nina Patel,Brian Foster,Billing,3.2,2024-01-22,Medium,4,Question
+T1083,David Kumar,Brian Foster,Billing,1.9,2024-01-25,Low,5,Question
+T1084,Emily Watson,Brian Foster,Billing,7.5,2024-01-29,Critical,2,Complaint
+T1085,Carlos Martinez,Brian Foster,Billing,4.6,2024-02-01,High,4,Complaint
+T1086,Nina Patel,Brian Foster,Billing,2.8,2024-02-05,Medium,5,Question
+T1087,David Kumar,Brian Foster,Billing,3.7,2024-02-08,High,4,Complaint
+T1088,Emily Watson,Brian Foster,Billing,1.4,2024-02-12,Low,5,Question
+T1089,Carlos Martinez,Brian Foster,Billing,6.6,2024-02-15,Critical,3,Complaint
+T1090,Nina Patel,Brian Foster,Billing,3.3,2024-02-19,Medium,4,Question
+T1091,David Kumar,Brian Foster,Billing,2.1,2024-02-22,Low,5,Question
+T1092,Emily Watson,Brian Foster,Billing,5.2,2024-02-26,High,3,Complaint
+T1093,Carlos Martinez,Brian Foster,Billing,4.8,2024-02-29,Medium,4,Question
+T1094,Nina Patel,Brian Foster,Billing,1.7,2024-03-04,Low,5,Question
+T1095,David Kumar,Brian Foster,Billing,7.1,2024-03-08,Critical,2,Complaint
+T1096,Emily Watson,Brian Foster,Billing,3.9,2024-03-11,High,4,Complaint
+T1097,Carlos Martinez,Brian Foster,Billing,2.5,2024-03-15,Medium,5,Question
+T1098,Nina Patel,Brian Foster,Billing,4.4,2024-03-18,High,4,Complaint
+T1099,David Kumar,Brian Foster,Billing,1.8,2024-03-21,Low,5,Question
+T1100,Emily Watson,Brian Foster,Billing,6.2,2024-03-24,Critical,3,Complaint
+T1101,Jennifer Lee,Claire Thompson,General,1.8,2024-01-04,Low,5,Question
+T1102,Tom Anderson,Claire Thompson,General,4.5,2024-01-07,High,4,Feature Request
+T1103,Maria Garcia,Claire Thompson,General,2.3,2024-01-11,Medium,5,Question
+T1104,Jennifer Lee,Claire Thompson,General,3.6,2024-01-14,High,4,Question
+T1105,Tom Anderson,Claire Thompson,General,1.5,2024-01-18,Low,5,Question
+T1106,Maria Garcia,Claire Thompson,General,5.2,2024-01-21,Critical,3,Feature Request
+T1107,Jennifer Lee,Claire Thompson,General,2.7,2024-01-25,Medium,5,Question
+T1108,Tom Anderson,Claire Thompson,General,3.9,2024-01-28,High,4,Feature Request
+T1109,Maria Garcia,Claire Thompson,General,1.4,2024-02-01,Low,5,Question
+T1110,Jennifer Lee,Claire Thompson,General,4.8,2024-02-04,Critical,4,Feature Request
+T1111,Tom Anderson,Claire Thompson,General,2.6,2024-02-08,Medium,5,Question
+T1112,Maria Garcia,Claire Thompson,General,3.3,2024-02-11,High,4,Question
+T1113,Jennifer Lee,Claire Thompson,General,1.9,2024-02-15,Low,5,Question
+T1114,Tom Anderson,Claire Thompson,General,5.7,2024-02-18,Critical,3,Feature Request
+T1115,Maria Garcia,Claire Thompson,General,2.8,2024-02-22,Medium,5,Question
+T1116,Jennifer Lee,Claire Thompson,General,4.1,2024-02-25,High,4,Feature Request
+T1117,Tom Anderson,Claire Thompson,General,1.6,2024-02-29,Low,5,Question
+T1118,Maria Garcia,Claire Thompson,General,3.5,2024-03-03,Medium,4,Question
+T1119,Jennifer Lee,Claire Thompson,General,2.2,2024-03-07,Low,5,Question
+T1120,Tom Anderson,Claire Thompson,General,6.3,2024-03-10,Critical,3,Feature Request
+T1121,Maria Garcia,Claire Thompson,General,3.7,2024-03-14,High,4,Question
+T1122,Jennifer Lee,Claire Thompson,General,1.8,2024-03-17,Low,5,Question
+T1123,Tom Anderson,Claire Thompson,General,4.4,2024-03-21,High,5,Feature Request
+T1124,Maria Garcia,Claire Thompson,General,2.5,2024-03-24,Medium,4,Question
+T1125,Jennifer Lee,Claire Thompson,General,3.2,2024-03-28,Medium,5,Question
+T1126,Tom Anderson,Claire Thompson,General,1.7,2024-03-31,Low,5,Question
+T1127,Maria Garcia,Claire Thompson,General,5.9,2024-01-06,Critical,3,Feature Request
+T1128,Jennifer Lee,Claire Thompson,General,2.9,2024-01-09,Medium,5,Question
+T1129,Tom Anderson,Claire Thompson,General,4.2,2024-01-13,High,4,Feature Request
+T1130,Maria Garcia,Claire Thompson,General,1.5,2024-01-16,Low,5,Question
+T1131,Jennifer Lee,Claire Thompson,General,3.8,2024-01-20,High,4,Question
+T1132,Tom Anderson,Claire Thompson,General,2.4,2024-01-23,Medium,5,Question
+T1133,Maria Garcia,Claire Thompson,General,5.1,2024-01-27,Critical,4,Feature Request
+T1134,Jennifer Lee,Claire Thompson,General,1.9,2024-01-30,Low,5,Question
+T1135,Tom Anderson,Claire Thompson,General,3.6,2024-02-03,High,4,Feature Request
+T1136,Maria Garcia,Claire Thompson,General,2.7,2024-02-06,Medium,5,Question
+T1137,Jennifer Lee,Claire Thompson,General,4.3,2024-02-10,High,4,Question
+T1138,Tom Anderson,Claire Thompson,General,1.6,2024-02-13,Low,5,Question
+T1139,Maria Garcia,Claire Thompson,General,6.2,2024-02-17,Critical,3,Feature Request
+T1140,Jennifer Lee,Claire Thompson,General,2.8,2024-02-20,Medium,5,Question
+T1141,Tom Anderson,Claire Thompson,General,3.9,2024-02-24,High,4,Feature Request
+T1142,Robert Kim,Daniel Park,Product,5.8,2024-01-05,Critical,3,Bug
+T1143,Sophie Turner,Daniel Park,Product,3.4,2024-01-09,Medium,4,Feature Request
+T1144,Alex Morgan,Daniel Park,Product,2.1,2024-01-12,Low,5,Question
+T1145,Hannah Scott,Daniel Park,Product,6.5,2024-01-16,Critical,2,Bug
+T1146,Robert Kim,Daniel Park,Product,4.2,2024-01-19,High,4,Feature Request
+T1147,Sophie Turner,Daniel Park,Product,2.8,2024-01-23,Medium,5,Question
+T1148,Alex Morgan,Daniel Park,Product,1.7,2024-01-26,Low,5,Question
+T1149,Hannah Scott,Daniel Park,Product,7.3,2024-01-30,Critical,2,Bug
+T1150,Robert Kim,Daniel Park,Product,3.9,2024-02-02,High,4,Feature Request
+T1151,Sophie Turner,Daniel Park,Product,2.5,2024-02-06,Medium,5,Question
+T1152,Alex Morgan,Daniel Park,Product,5.6,2024-02-09,High,3,Bug
+T1153,Hannah Scott,Daniel Park,Product,1.9,2024-02-13,Low,5,Question
+T1154,Robert Kim,Daniel Park,Product,6.8,2024-02-16,Critical,3,Bug
+T1155,Sophie Turner,Daniel Park,Product,3.7,2024-02-20,Medium,4,Feature Request
+T1156,Alex Morgan,Daniel Park,Product,2.3,2024-02-23,Low,5,Question
+T1157,Hannah Scott,Daniel Park,Product,5.4,2024-02-27,High,3,Bug
+T1158,Robert Kim,Daniel Park,Product,4.1,2024-03-01,Medium,4,Feature Request
+T1159,Sophie Turner,Daniel Park,Product,1.8,2024-03-05,Low,5,Question
+T1160,Alex Morgan,Daniel Park,Product,7.1,2024-03-08,Critical,2,Bug
+T1161,Hannah Scott,Daniel Park,Product,3.6,2024-03-12,High,4,Feature Request
+T1162,Robert Kim,Daniel Park,Product,2.6,2024-03-15,Medium,5,Question
+T1163,Sophie Turner,Daniel Park,Product,4.9,2024-03-19,High,3,Bug
+T1164,Alex Morgan,Daniel Park,Product,1.5,2024-03-22,Low,5,Question
+T1165,Hannah Scott,Daniel Park,Product,6.2,2024-03-26,Critical,3,Bug
+T1166,Robert Kim,Daniel Park,Product,3.3,2024-03-29,Medium,4,Feature Request
+T1167,Sophie Turner,Daniel Park,Product,2.4,2024-01-07,Low,5,Question
+T1168,Alex Morgan,Daniel Park,Product,5.9,2024-01-11,Critical,3,Bug
+T1169,Hannah Scott,Daniel Park,Product,3.8,2024-01-14,High,4,Feature Request
+T1170,Robert Kim,Daniel Park,Product,2.2,2024-01-18,Medium,5,Question
+T1171,Sophie Turner,Daniel Park,Product,4.6,2024-01-21,High,4,Bug
+T1172,Alex Morgan,Daniel Park,Product,1.9,2024-01-25,Low,5,Question
+T1173,Hannah Scott,Daniel Park,Product,7.5,2024-01-28,Critical,2,Bug
+T1174,Robert Kim,Daniel Park,Product,3.5,2024-02-01,Medium,4,Feature Request
+T1175,Sophie Turner,Daniel Park,Product,2.7,2024-02-04,Low,5,Question
+T1176,Alex Morgan,Daniel Park,Product,6.3,2024-02-08,Critical,3,Bug
+T1177,Hannah Scott,Daniel Park,Product,4.4,2024-02-11,High,4,Feature Request
+T1178,Robert Kim,Daniel Park,Product,1.8,2024-02-15,Low,5,Question
+T1179,Sophie Turner,Daniel Park,Product,5.2,2024-02-18,High,3,Bug
+T1180,Alex Morgan,Daniel Park,Product,3.1,2024-02-22,Medium,4,Question
+T1181,Hannah Scott,Daniel Park,Product,2.6,2024-02-25,Low,5,Question
+T1182,Robert Kim,Daniel Park,Product,6.9,2024-02-29,Critical,2,Bug
+T1183,Sophie Turner,Daniel Park,Product,4.3,2024-03-03,High,4,Feature Request
+T1184,Alex Morgan,Daniel Park,Product,2.5,2024-03-07,Medium,5,Question
+T1185,Hannah Scott,Daniel Park,Product,5.7,2024-03-10,High,3,Bug
+T1186,Robert Kim,Daniel Park,Product,1.6,2024-03-14,Low,5,Question
+T1187,Sophie Turner,Daniel Park,Product,3.9,2024-03-17,Medium,4,Feature Request
+T1188,Alex Morgan,Daniel Park,Product,7.2,2024-03-21,Critical,3,Bug
+T1189,Hannah Scott,Daniel Park,Product,2.8,2024-03-24,Low,5,Question
+T1190,Robert Kim,Daniel Park,Product,4.7,2024-03-27,High,4,Feature Request
+T1191,James Wilson,Emma Wilson,Technical,3.8,2024-01-06,High,4,Bug
+T1192,Olivia Brown,Emma Wilson,Technical,2.4,2024-01-10,Medium,5,Question
+T1193,Nathan Davis,Emma Wilson,Technical,5.6,2024-01-13,Critical,3,Bug
+T1194,James Wilson,Emma Wilson,Technical,1.9,2024-01-17,Low,5,Question
+T1195,Olivia Brown,Emma Wilson,Technical,4.3,2024-01-20,High,4,Feature Request
+T1196,Nathan Davis,Emma Wilson,Technical,2.7,2024-01-24,Medium,5,Question
+T1197,James Wilson,Emma Wilson,Technical,6.2,2024-01-27,Critical,2,Bug
+T1198,Olivia Brown,Emma Wilson,Technical,3.5,2024-01-31,High,4,Bug
+T1199,Nathan Davis,Emma Wilson,Technical,1.8,2024-02-03,Low,5,Question
+T1200,James Wilson,Emma Wilson,Technical,4.9,2024-02-07,High,4,Feature Request
+T1201,Olivia Brown,Emma Wilson,Technical,2.6,2024-02-10,Medium,5,Question
+T1202,Nathan Davis,Emma Wilson,Technical,5.8,2024-02-14,Critical,3,Bug
+T1203,James Wilson,Emma Wilson,Technical,3.3,2024-02-17,Medium,4,Question
+T1204,Olivia Brown,Emma Wilson,Technical,1.7,2024-02-21,Low,5,Question
+T1205,Nathan Davis,Emma Wilson,Technical,6.5,2024-02-24,Critical,2,Bug
+T1206,James Wilson,Emma Wilson,Technical,4.1,2024-02-28,High,4,Feature Request
+T1207,Olivia Brown,Emma Wilson,Technical,2.5,2024-03-02,Medium,5,Question
+T1208,Nathan Davis,Emma Wilson,Technical,3.7,2024-03-06,High,4,Bug
+T1209,James Wilson,Emma Wilson,Technical,1.6,2024-03-09,Low,5,Question
+T1210,Olivia Brown,Emma Wilson,Technical,7.1,2024-03-13,Critical,3,Bug
+T1211,Nathan Davis,Emma Wilson,Technical,4.4,2024-03-16,High,4,Feature Request
+T1212,James Wilson,Emma Wilson,Technical,2.8,2024-03-20,Medium,5,Question
+T1213,Olivia Brown,Emma Wilson,Technical,5.3,2024-03-23,High,3,Bug
+T1214,Nathan Davis,Emma Wilson,Technical,1.9,2024-03-27,Low,5,Question
+T1215,James Wilson,Emma Wilson,Technical,3.9,2024-03-30,Medium,4,Question
+T1216,Olivia Brown,Emma Wilson,Technical,6.7,2024-01-08,Critical,2,Bug
+T1217,Nathan Davis,Emma Wilson,Technical,2.3,2024-01-11,Low,5,Question
+T1218,James Wilson,Emma Wilson,Technical,4.6,2024-01-15,High,4,Feature Request
+T1219,Olivia Brown,Emma Wilson,Technical,3.2,2024-01-18,Medium,5,Question
+T1220,Nathan Davis,Emma Wilson,Technical,1.5,2024-01-22,Low,5,Question
+T1221,James Wilson,Emma Wilson,Technical,5.9,2024-01-25,Critical,3,Bug
+T1222,Olivia Brown,Emma Wilson,Technical,3.6,2024-01-29,High,4,Bug
+T1223,Nathan Davis,Emma Wilson,Technical,2.4,2024-02-01,Medium,5,Question
+T1224,James Wilson,Emma Wilson,Technical,4.8,2024-02-05,High,4,Feature Request
+T1225,Olivia Brown,Emma Wilson,Technical,1.7,2024-02-09,Low,5,Question
+T1226,Nathan Davis,Emma Wilson,Technical,6.4,2024-02-12,Critical,3,Bug
+T1227,James Wilson,Emma Wilson,Technical,3.4,2024-02-16,Medium,4,Question
+T1228,Olivia Brown,Emma Wilson,Technical,2.6,2024-02-19,Low,5,Question
+T1229,Nathan Davis,Emma Wilson,Technical,5.5,2024-02-23,High,3,Bug
+T1230,James Wilson,Emma Wilson,Technical,4.2,2024-02-27,Medium,4,Feature Request
+T1231,Olivia Brown,Emma Wilson,Technical,1.8,2024-03-01,Low,5,Question
+T1232,Nathan Davis,Emma Wilson,Technical,7.3,2024-03-05,Critical,2,Bug
+T1233,James Wilson,Emma Wilson,Technical,3.7,2024-03-08,High,4,Bug
+T1234,Olivia Brown,Emma Wilson,Technical,2.5,2024-03-12,Medium,5,Question
+T1235,Nathan Davis,Emma Wilson,Technical,5.1,2024-03-15,High,4,Feature Request
+T1236,James Wilson,Emma Wilson,Technical,1.9,2024-03-19,Low,5,Question
+T1237,Olivia Brown,Emma Wilson,Technical,4.5,2024-03-22,High,4,Bug
+T1238,Nathan Davis,Emma Wilson,Technical,3.1,2024-03-26,Medium,5,Question
+T1239,James Wilson,Emma Wilson,Technical,6.8,2024-03-29,Critical,3,Bug
+T1240,Olivia Brown,Emma Wilson,Technical,2.7,2024-01-12,Medium,5,Question
+T1241,Nathan Davis,Emma Wilson,Technical,4.3,2024-01-16,High,4,Feature Request
+T1242,James Wilson,Emma Wilson,Technical,1.6,2024-01-19,Low,5,Question
+T1243,Olivia Brown,Emma Wilson,Technical,5.7,2024-01-23,Critical,3,Bug
+T1244,Nathan Davis,Emma Wilson,Technical,3.3,2024-01-26,Medium,4,Question
+T1245,James Wilson,Emma Wilson,Technical,2.2,2024-02-02,Low,5,Question
+T1246,Olivia Brown,Emma Wilson,Technical,6.1,2024-02-06,Critical,2,Bug
+T1247,Nathan Davis,Emma Wilson,Technical,4.4,2024-02-11,High,4,Feature Request
+T1248,James Wilson,Emma Wilson,Technical,2.9,2024-02-14,Medium,5,Question
+T1249,Olivia Brown,Emma Wilson,Technical,3.8,2024-02-18,High,4,Bug
+T1250,Nathan Davis,Emma Wilson,Technical,1.5,2024-02-21,Low,5,Question

@@ -1,0 +1,551 @@
+Car_ID,Brand,Model,Year,Fuel_Type,Transmission,Kilometers_Driven,Owner_Type,Mileage_kmpl,Engine_CC,Power_bhp,Seats,Price
+CAR0001,Hyundai,Creta,2018,Petrol,Manual,22109,First,13.1,1500.0,56.6,7.0,3.6
+CAR0002,Nissan,Magnite,2021,CNG,Manual,32010,First,11.0,1200.0,77.8,5.0,3.49
+CAR0003,Mahindra,XUV500,2018,Diesel,Manual,18787,First,23.2,800.0,131.2,5.0,4.78
+CAR0004,Tata,Punch,2018,CNG,Manual,149544,First,15.8,1200.0,146.8,7.0,2.33
+CAR0005,Maruti,Dzire,2021,Electric,Manual,71709,First,18.1,1200.0,56.8,5.0,4.83
+CAR0006,Maruti,WagonR,2016,Petrol,Automatic,44518,Second,24.5,1000.0,191.9,5.0,2.52
+CAR0007,Maruti,WagonR,2013,Petrol,Manual,63909,Second,11.0,1500.0,176.3,7.0,1.79
+CAR0008,Renault,Captur,2010,Diesel,Manual,28351,Second,19.7,2200.0,94.5,5.0,1.13
+CAR0009,Tata,Harrier,2020,Diesel,Manual,25282,First,11.1,1500.0,,5.0,3.69
+CAR0010,Mahindra,Thar,2018,Petrol,Manual,15075,Third,15.6,1500.0,75.5,7.0,2.95
+CAR0011,Maruti,Vitara Brezza,2019,Diesel,Manual,38365,Second,22.1,800.0,69.0,7.0,3.82
+CAR0012,Chevrolet,Trailblazer,2014,Petrol,Manual,21002,First,16.5,1200.0,68.5,,1.63
+CAR0013,Toyota,Camry,2013,Petrol,Automatic,23947,Second,25.0,1000.0,127.8,5.0,3.67
+CAR0014,Maruti,Baleno,2010,Petrol,Manual,104840,First,18.4,1500.0,86.9,5.0,1.01
+CAR0015,Maruti,Baleno,2016,Diesel,Automatic,126219,First,14.8,2000.0,103.7,5.0,2.74
+CAR0016,Maruti,Alto,2018,Diesel,Automatic,88610,Third,13.3,1500.0,198.4,5.0,2.91
+CAR0017,Hyundai,Creta,2016,Petrol,Manual,62142,First,15.3,800.0,152.6,5.0,2.73
+CAR0018,Honda,Jazz,2017,Diesel,Automatic,66307,First,15.6,1200.0,192.3,5.0,5.03
+CAR0019,Hyundai,Elantra,2021,Petrol,Manual,145565,Third,11.0,1500.0,71.4,5.0,2.48
+CAR0020,Hyundai,Verna,2016,Petrol,Automatic,60085,Second,15.5,1200.0,107.3,5.0,2.89
+CAR0021,Tata,Safari,2017,Diesel,Manual,44228,First,,1600.0,133.2,5.0,3.09
+CAR0022,Maruti,Ertiga,2020,CNG,Automatic,53472,First,20.8,,61.5,5.0,4.12
+CAR0023,Hyundai,Venue,2016,Diesel,Automatic,59437,First,19.9,1500.0,50.6,5.0,3.21
+CAR0024,Hyundai,Creta,2018,Diesel,Automatic,69711,Second,20.6,1200.0,150.6,5.0,4.19
+CAR0025,Honda,WR-V,2021,Diesel,Automatic,147888,First,10.1,1000.0,146.3,5.0,6.21
+CAR0026,Ford,EcoSport,2022,Diesel,Manual,87175,First,13.3,1000.0,111.6,,5.3
+CAR0027,Maruti,Ertiga,2013,Petrol,Manual,74307,Fourth & Above,19.9,1200.0,123.4,5.0,1.15
+CAR0028,Honda,CR-V,2021,Petrol,Manual,56733,Second,17.3,1200.0,112.3,8.0,5.5
+CAR0029,Tata,Nexon,2017,Petrol,Manual,138202,First,10.1,1500.0,53.6,5.0,1.67
+CAR0030,Maruti,Baleno,2015,Petrol,Manual,105028,Second,22.1,1500.0,100.3,8.0,2.05
+CAR0031,Tata,Harrier,2017,Diesel,Manual,102493,Second,21.6,800.0,76.6,5.0,2.17
+CAR0032,Maruti,Swift,2023,Petrol,Automatic,135149,First,18.2,1200.0,64.8,5.0,4.79
+CAR0033,Maruti,Alto,2017,Petrol,Manual,18259,First,11.0,1000.0,193.5,7.0,3.32
+CAR0034,Nissan,Terrano,2015,Petrol,Automatic,138775,Third,21.5,1000.0,139.9,5.0,1.61
+CAR0035,Chevrolet,Trailblazer,2019,Diesel,Manual,24849,First,18.8,,159.3,5.0,4.38
+CAR0036,Ford,EcoSport,2014,Petrol,Automatic,91768,Second,21.7,800.0,,5.0,1.87
+CAR0037,Hyundai,Venue,2012,Diesel,Automatic,116108,First,21.3,1200.0,109.0,5.0,2.03
+CAR0038,Maruti,WagonR,2013,Petrol,Manual,99709,First,22.0,1000.0,85.5,5.0,1.41
+CAR0039,Mahindra,Marazzo,2013,Petrol,Manual,64869,First,17.8,1800.0,64.5,5.0,2.01
+CAR0040,Hyundai,Venue,2013,Diesel,Automatic,136888,First,12.1,1500.0,,4.0,1.85
+CAR0041,Maruti,Ertiga,2013,Diesel,Manual,73095,First,20.1,1000.0,169.6,4.0,1.94
+CAR0042,Honda,Jazz,2019,Petrol,Manual,127886,First,19.3,1200.0,,8.0,4.41
+CAR0043,Maruti,Vitara Brezza,2014,Diesel,Manual,80910,Third,21.1,1500.0,132.0,5.0,1.73
+CAR0044,Volkswagen,Vento,2016,Diesel,Manual,33567,Fourth & Above,12.5,2200.0,121.3,5.0,2.99
+CAR0045,Hyundai,Santro,2021,Petrol,Manual,45292,Second,12.9,1000.0,188.4,7.0,4.71
+CAR0046,Tata,Tiago,2017,Diesel,Manual,84813,Third,23.4,1800.0,60.9,5.0,1.98
+CAR0047,Hyundai,i20,2019,Diesel,Manual,107136,First,21.2,2000.0,92.1,5.0,4.02
+CAR0048,Honda,CR-V,2013,Diesel,Manual,61631,Fourth & Above,23.6,2000.0,102.5,5.0,1.95
+CAR0049,Honda,City,2014,Diesel,Automatic,19885,First,21.4,1500.0,167.4,5.0,4.23
+CAR0050,Maruti,Dzire,2011,Diesel,Manual,76314,Fourth & Above,19.0,1500.0,198.9,5.0,1.11
+CAR0051,Chevrolet,Spark,2013,Diesel,Automatic,75087,Fourth & Above,19.8,1200.0,86.1,5.0,1.37
+CAR0052,Ford,Freestyle,2015,Diesel,Manual,105998,Second,23.3,1600.0,181.1,8.0,2.65
+CAR0053,Nissan,Magnite,2013,Diesel,Manual,59812,Fourth & Above,18.7,1200.0,,5.0,1.3
+CAR0054,Renault,Kiger,2012,Diesel,Manual,68643,Second,19.5,1500.0,83.7,5.0,1.19
+CAR0055,Tata,Nexon,2013,Diesel,Manual,54900,First,12.3,1200.0,109.9,5.0,1.86
+CAR0056,Volkswagen,Vento,2017,Diesel,Manual,148923,First,17.1,1500.0,111.5,5.0,3.74
+CAR0057,Maruti,Ertiga,2014,Petrol,Manual,26288,Second,20.7,1600.0,196.7,7.0,2.15
+CAR0058,Maruti,Dzire,2016,Diesel,Manual,82692,First,14.1,1000.0,77.1,5.0,2.3
+CAR0059,Maruti,Ertiga,2017,Diesel,Manual,148440,Second,13.0,1600.0,169.9,5.0,2.34
+CAR0060,Hyundai,Creta,2019,Petrol,Manual,95436,Fourth & Above,14.7,1200.0,100.1,7.0,2.67
+CAR0061,Hyundai,Santro,2011,Diesel,Manual,56403,First,13.6,1600.0,159.6,5.0,1.82
+CAR0062,Hyundai,Santro,2020,Petrol,Manual,101170,Second,13.2,1200.0,113.0,5.0,3.07
+CAR0063,Toyota,Camry,2018,Petrol,Automatic,19168,Third,16.4,1200.0,136.8,5.0,5.14
+CAR0064,Hyundai,Venue,2012,Diesel,Manual,59879,Third,23.6,2000.0,174.9,7.0,2.18
+CAR0065,Hyundai,Santro,2021,Petrol,Manual,69871,Fourth & Above,17.6,1000.0,170.6,5.0,2.98
+CAR0066,Honda,Jazz,2021,Diesel,Automatic,42174,Second,12.8,1600.0,180.0,7.0,8.57
+CAR0067,Maruti,Ertiga,2011,Diesel,Manual,147653,Fourth & Above,11.2,1200.0,58.9,5.0,1.0
+CAR0068,Ford,Figo,2015,Petrol,Manual,120155,Second,20.4,1200.0,153.8,5.0,1.81
+CAR0069,Maruti,Ertiga,2020,Petrol,Automatic,81853,First,15.7,1200.0,71.0,7.0,4.41
+CAR0070,Skoda,Octavia,2019,Petrol,Manual,74046,First,22.3,1500.0,112.4,5.0,5.25
+CAR0071,Ford,Aspire,2014,Diesel,Manual,59678,Second,19.9,1200.0,132.3,5.0,2.01
+CAR0072,Maruti,Alto,2014,Electric,Manual,36649,First,21.9,800.0,110.4,5.0,2.79
+CAR0073,Maruti,Baleno,2016,Diesel,Manual,137795,Second,14.1,1000.0,127.9,5.0,1.9
+CAR0074,Toyota,Fortuner,2017,Petrol,Manual,98668,Second,20.4,800.0,199.5,5.0,3.76
+CAR0075,Mahindra,Marazzo,2018,Diesel,Manual,99906,First,14.0,2200.0,,5.0,3.51
+CAR0076,Mahindra,Marazzo,2016,Petrol,Manual,106019,Second,24.1,2200.0,151.3,5.0,2.38
+CAR0077,Ford,Aspire,2017,Diesel,Manual,88002,Second,19.5,1200.0,109.4,5.0,2.71
+CAR0078,Maruti,Baleno,2019,Petrol,Automatic,38803,First,,1500.0,70.0,4.0,3.78
+CAR0079,Hyundai,Grand i10,2011,Diesel,Automatic,40795,First,14.0,1200.0,73.8,5.0,2.18
+CAR0080,Maruti,Baleno,2015,Petrol,Manual,18770,First,12.9,1500.0,192.4,5.0,2.36
+CAR0081,Renault,Captur,2019,CNG,Manual,21093,First,20.4,1600.0,181.9,7.0,3.36
+CAR0082,Tata,Nexon,2021,Petrol,Manual,141265,Third,13.3,2000.0,186.1,5.0,2.47
+CAR0083,Hyundai,Verna,2017,Diesel,Manual,110311,First,18.9,1200.0,198.7,5.0,2.84
+CAR0084,Maruti,Dzire,2018,CNG,Manual,27569,Second,14.0,1600.0,,8.0,3.14
+CAR0085,Hyundai,Elantra,2012,Petrol,Manual,21190,First,19.9,1000.0,103.3,5.0,1.89
+CAR0086,Hyundai,Grand i10,2017,CNG,Automatic,72824,First,22.2,,150.4,7.0,4.31
+CAR0087,Mahindra,XUV300,2018,Diesel,Manual,52070,Third,21.7,800.0,122.6,5.0,3.46
+CAR0088,Tata,Safari,2014,Petrol,Manual,50197,Second,21.4,1500.0,112.8,,1.6
+CAR0089,Renault,Kiger,2015,Petrol,Manual,12261,First,12.8,1500.0,103.7,5.0,1.83
+CAR0090,Honda,Civic,2016,Diesel,Manual,147788,First,11.3,1500.0,139.1,5.0,3.07
+CAR0091,Maruti,WagonR,2010,Petrol,Automatic,96795,First,20.5,1000.0,136.3,5.0,1.48
+CAR0092,Mahindra,Marazzo,2015,Diesel,Automatic,38933,First,15.5,2000.0,74.2,5.0,3.53
+CAR0093,Ford,Figo,2014,Petrol,Automatic,145450,Second,16.5,1000.0,120.8,,1.7
+CAR0094,Honda,Civic,2015,Diesel,Manual,50583,First,10.5,1500.0,133.0,5.0,3.53
+CAR0095,Ford,Aspire,2012,Petrol,Manual,122082,First,13.9,1000.0,135.5,5.0,1.25
+CAR0096,Honda,Amaze,2021,Diesel,Manual,95371,First,10.5,1200.0,81.5,5.0,5.07
+CAR0097,Honda,Amaze,2018,CNG,Manual,121032,Third,23.2,1200.0,161.3,5.0,2.46
+CAR0098,Hyundai,Elantra,2019,CNG,Manual,52604,Fourth & Above,13.7,1200.0,53.8,5.0,2.22
+CAR0099,Maruti,Dzire,2020,Diesel,Automatic,105074,First,18.4,1000.0,103.2,8.0,4.72
+CAR0100,Maruti,WagonR,2017,Petrol,Manual,83869,Second,10.6,1000.0,167.0,5.0,2.09
+CAR0101,Maruti,Vitara Brezza,2012,Diesel,Manual,15410,First,20.0,1200.0,134.6,7.0,2.15
+CAR0102,Tata,Safari,2018,Petrol,Manual,93375,First,14.8,1600.0,89.2,5.0,2.42
+CAR0103,Hyundai,Elantra,2018,Petrol,Manual,106055,Second,23.5,1800.0,154.2,5.0,3.21
+CAR0104,Honda,CR-V,2019,Petrol,Manual,147868,Third,23.3,800.0,135.1,5.0,3.0
+CAR0105,Volkswagen,Vento,2017,Petrol,Automatic,96716,Fourth & Above,14.9,1200.0,169.4,5.0,3.11
+CAR0106,Maruti,Dzire,2013,Diesel,Automatic,64245,Second,23.5,1000.0,160.3,5.0,2.15
+CAR0107,Hyundai,Elantra,2015,Diesel,Automatic,53056,First,24.9,800.0,141.5,5.0,3.17
+CAR0108,Ford,Figo,2016,Petrol,Manual,68557,Second,22.4,1500.0,123.2,5.0,2.13
+CAR0109,Maruti,Ertiga,2019,Petrol,Manual,27543,First,22.7,1500.0,70.0,5.0,3.43
+CAR0110,Maruti,WagonR,2018,Electric,Manual,106038,Second,13.7,1000.0,89.2,5.0,2.63
+CAR0111,Hyundai,i20,2016,Petrol,Manual,13828,First,18.7,1000.0,112.9,5.0,2.81
+CAR0112,Maruti,Dzire,2023,Petrol,Automatic,126656,Second,,800.0,139.9,5.0,4.97
+CAR0113,Volkswagen,Virtus,2018,Petrol,Manual,27087,First,11.4,1600.0,127.1,,5.6
+CAR0114,Ford,Figo,2014,Diesel,Manual,41337,First,25.0,2200.0,93.2,5.0,2.41
+CAR0115,Tata,Altroz,2012,Diesel,Manual,146554,Third,14.9,1000.0,51.0,5.0,1.0
+CAR0116,Renault,Kiger,2013,Petrol,Manual,75333,First,21.2,1000.0,124.4,5.0,1.48
+CAR0117,Ford,Aspire,2014,Petrol,Automatic,146535,Second,22.1,1800.0,92.8,5.0,1.79
+CAR0118,Maruti,Dzire,2013,Diesel,Manual,80448,First,22.9,2000.0,160.2,5.0,2.23
+CAR0119,Renault,Kiger,2014,Diesel,Manual,14648,First,25.0,1200.0,53.6,5.0,1.94
+CAR0120,Honda,Jazz,2015,Petrol,Manual,140576,First,13.6,800.0,137.7,5.0,2.37
+CAR0121,Ford,EcoSport,2013,CNG,Manual,43623,First,10.6,800.0,191.2,5.0,1.6
+CAR0122,Renault,Duster,2021,Petrol,Automatic,45634,Third,16.2,1500.0,76.2,7.0,3.18
+CAR0123,Hyundai,Verna,2012,Petrol,Automatic,124598,First,12.0,1200.0,120.7,7.0,2.04
+CAR0124,Maruti,WagonR,2018,CNG,Automatic,59334,Fourth & Above,10.3,800.0,63.7,5.0,2.18
+CAR0125,Maruti,Swift,2016,Petrol,Automatic,78648,Second,15.4,1500.0,143.9,5.0,2.36
+CAR0126,Hyundai,Venue,2023,Diesel,Manual,32054,First,21.8,800.0,132.6,5.0,7.33
+CAR0127,Toyota,Innova,2012,Petrol,Manual,80028,Second,18.5,1600.0,111.1,4.0,2.53
+CAR0128,Renault,Triber,2016,Petrol,Manual,32207,Second,14.7,1200.0,128.2,5.0,1.91
+CAR0129,Maruti,Alto,2022,Electric,Manual,91554,Second,19.8,800.0,184.5,5.0,4.8
+CAR0130,Honda,Jazz,2021,Petrol,Automatic,93276,First,13.5,1500.0,79.4,7.0,6.22
+CAR0131,Hyundai,Elantra,2020,Diesel,Manual,62781,First,10.2,1200.0,53.4,4.0,3.86
+CAR0132,Maruti,Baleno,2015,Petrol,Automatic,71035,Third,21.5,2200.0,179.2,5.0,2.03
+CAR0133,Maruti,WagonR,2013,Petrol,Manual,18210,Third,19.4,1200.0,136.6,5.0,1.54
+CAR0134,Hyundai,i20,2019,Petrol,Manual,54363,Third,21.4,1000.0,183.6,5.0,3.11
+CAR0135,Nissan,Terrano,2021,Diesel,Manual,88279,First,10.6,1500.0,139.5,5.0,3.98
+CAR0136,Hyundai,Verna,2018,Petrol,Automatic,144393,Second,22.6,1000.0,171.5,8.0,3.21
+CAR0137,Honda,Jazz,2018,Diesel,Manual,91348,First,19.3,2000.0,114.5,5.0,4.96
+CAR0138,Mahindra,Bolero,2015,Petrol,Manual,123816,First,18.5,1200.0,162.5,5.0,2.13
+CAR0139,Hyundai,Elantra,2020,CNG,Manual,133053,First,19.4,1200.0,187.0,5.0,3.3
+CAR0140,Chevrolet,Beat,2014,Petrol,Manual,76262,Second,23.0,800.0,135.8,5.0,1.64
+CAR0141,Chevrolet,Beat,2015,Diesel,Manual,144832,First,18.8,1200.0,77.1,5.0,1.58
+CAR0142,Hyundai,Verna,2017,Diesel,Automatic,77411,First,18.7,1600.0,90.3,5.0,4.36
+CAR0143,Honda,WR-V,2017,Diesel,Manual,33377,Third,24.9,1600.0,79.8,5.0,3.41
+CAR0144,Hyundai,Grand i10,2014,Diesel,Manual,48211,First,21.4,1000.0,87.0,7.0,2.79
+CAR0145,Hyundai,Verna,2012,Diesel,Manual,13744,First,16.6,1000.0,96.0,5.0,1.96
+CAR0146,Maruti,Ertiga,2018,Diesel,Manual,34995,First,20.6,1600.0,133.3,5.0,4.17
+CAR0147,Tata,Altroz,2015,Petrol,Automatic,44542,Third,15.8,2000.0,138.2,5.0,1.96
+CAR0148,Honda,Amaze,2018,Petrol,Manual,20651,Second,13.4,800.0,114.0,5.0,3.69
+CAR0149,Maruti,Baleno,2013,CNG,Manual,109239,First,19.0,1200.0,142.3,5.0,1.56
+CAR0150,Hyundai,Santro,2017,Diesel,Manual,88931,Third,23.9,1200.0,62.2,5.0,2.41
+CAR0151,Volkswagen,Taigun,2018,Diesel,Automatic,112112,Third,23.9,1800.0,,5.0,4.43
+CAR0152,Maruti,Dzire,2011,Petrol,Automatic,26715,First,15.1,800.0,75.8,4.0,1.52
+CAR0153,Maruti,Baleno,2016,Petrol,Manual,71350,Second,17.9,1000.0,127.7,,2.03
+CAR0154,Honda,Civic,2013,Petrol,Manual,81425,Second,13.2,1600.0,82.1,7.0,2.09
+CAR0155,Skoda,Rapid,2011,Diesel,Manual,96120,Second,24.9,800.0,92.5,5.0,1.92
+CAR0156,Maruti,Baleno,2023,Petrol,Automatic,124889,First,24.7,1200.0,110.0,,5.73
+CAR0157,Mahindra,Scorpio,2015,Petrol,Manual,84637,Third,19.7,1200.0,171.8,5.0,1.92
+CAR0158,Ford,Endeavour,2020,Petrol,Manual,80194,Second,22.1,1200.0,52.1,7.0,3.79
+CAR0159,Maruti,Vitara Brezza,2015,Petrol,Manual,86917,First,20.7,1200.0,147.4,5.0,2.12
+CAR0160,Mahindra,XUV300,2019,Diesel,Manual,74200,First,18.9,1200.0,150.3,5.0,4.57
+CAR0161,Hyundai,Elantra,2020,Petrol,Manual,115848,First,10.8,1000.0,169.8,4.0,3.61
+CAR0162,Tata,Harrier,2018,Diesel,Automatic,116022,First,16.8,1500.0,189.9,5.0,3.16
+CAR0163,Tata,Harrier,2017,Petrol,Manual,70058,Second,20.1,1600.0,53.0,5.0,2.03
+CAR0164,Honda,CR-V,2016,Petrol,Manual,72068,First,20.2,1600.0,73.1,5.0,3.36
+CAR0165,Maruti,Alto,2016,Petrol,Manual,109932,First,15.6,1000.0,182.9,5.0,1.89
+CAR0166,Toyota,Camry,2021,Petrol,Automatic,147103,Second,24.1,1000.0,118.8,5.0,6.19
+CAR0167,Hyundai,i20,2020,Petrol,Manual,32785,First,12.5,1000.0,134.7,5.0,4.4
+CAR0168,Maruti,Ertiga,2022,Petrol,Automatic,104475,Fourth & Above,17.5,1200.0,149.5,5.0,3.39
+CAR0169,Maruti,Vitara Brezza,2013,Diesel,Manual,12282,First,20.4,1200.0,151.9,5.0,2.31
+CAR0170,Tata,Nexon,2019,Petrol,Manual,77534,First,20.5,1500.0,189.8,5.0,2.73
+CAR0171,Mahindra,Thar,2022,Diesel,Manual,84964,First,19.7,800.0,199.5,8.0,7.32
+CAR0172,Maruti,Baleno,2014,Diesel,Manual,129006,First,14.1,800.0,158.0,8.0,1.89
+CAR0173,Honda,Civic,2011,Diesel,Manual,60583,First,12.3,1200.0,93.1,7.0,2.29
+CAR0174,Maruti,Vitara Brezza,2019,Petrol,Automatic,48392,Second,19.5,1500.0,182.0,5.0,3.73
+CAR0175,Tata,Harrier,2018,Petrol,Manual,17461,Fourth & Above,19.0,1000.0,57.4,5.0,1.93
+CAR0176,Maruti,Dzire,2020,Petrol,Manual,110123,First,12.7,1500.0,84.7,5.0,2.7
+CAR0177,Mahindra,XUV300,2013,Petrol,Manual,20516,Second,20.6,1000.0,184.6,5.0,1.91
+CAR0178,Hyundai,Venue,2020,Electric,Automatic,131251,Second,16.8,1800.0,88.4,5.0,4.43
+CAR0179,Nissan,Kicks,2014,Petrol,Automatic,72493,Third,20.0,1800.0,83.1,5.0,1.85
+CAR0180,Maruti,Vitara Brezza,2013,Petrol,Manual,46027,First,22.6,1000.0,70.7,5.0,1.75
+CAR0181,Hyundai,Elantra,2013,Diesel,Automatic,103547,First,12.5,1000.0,178.9,5.0,2.23
+CAR0182,Maruti,Alto,2020,Diesel,Manual,110127,First,10.3,1200.0,125.0,5.0,3.61
+CAR0183,Volkswagen,Vento,2019,Diesel,Manual,89003,Second,21.7,1000.0,151.2,7.0,5.84
+CAR0184,Renault,Captur,2018,Petrol,Automatic,49758,Third,19.1,1500.0,85.9,5.0,2.24
+CAR0185,Hyundai,Santro,2016,Petrol,Automatic,64312,First,20.5,1600.0,163.7,5.0,3.64
+CAR0186,Tata,Altroz,2021,Petrol,Manual,78670,First,22.6,1500.0,164.0,7.0,4.25
+CAR0187,Toyota,Fortuner,2016,Petrol,Manual,92279,Third,22.0,1600.0,96.9,5.0,3.15
+CAR0188,Honda,Civic,2020,Petrol,Manual,25434,Third,24.4,1200.0,,5.0,4.14
+CAR0189,Honda,Jazz,2017,Petrol,Automatic,85769,Fourth & Above,18.0,1000.0,81.5,5.0,2.32
+CAR0190,Maruti,Alto,2016,Petrol,Manual,76677,Second,17.3,1500.0,196.5,5.0,2.08
+CAR0191,Maruti,Ertiga,2017,Petrol,Manual,93555,First,16.0,1200.0,146.8,7.0,2.82
+CAR0192,Renault,Captur,2015,Petrol,Manual,138379,Second,12.3,1500.0,190.2,5.0,1.32
+CAR0193,Volkswagen,Tiguan,2019,Diesel,Manual,111665,Second,18.6,1000.0,95.5,5.0,3.92
+CAR0194,Tata,Safari,2017,Diesel,Manual,78803,First,14.2,800.0,167.3,5.0,2.51
+CAR0195,Hyundai,Creta,2014,Diesel,Automatic,101703,Second,23.8,2500.0,164.9,4.0,2.55
+CAR0196,Hyundai,Santro,2021,Petrol,Manual,31312,Second,18.7,1000.0,153.7,8.0,4.67
+CAR0197,Mahindra,Thar,2016,Petrol,Manual,127961,First,18.9,2500.0,194.8,5.0,2.74
+CAR0198,Renault,Duster,2018,Petrol,Manual,50379,Second,15.3,2200.0,109.0,5.0,2.54
+CAR0199,Renault,Duster,2021,Diesel,Automatic,27297,Second,,1600.0,69.6,5.0,4.64
+CAR0200,Ford,Aspire,2018,Diesel,Manual,12011,Fourth & Above,10.5,1500.0,150.8,5.0,2.74
+CAR0201,Tata,Punch,2012,Petrol,Manual,130234,First,,1500.0,159.4,7.0,1.23
+CAR0202,Maruti,Vitara Brezza,2022,CNG,Automatic,54014,First,11.3,1800.0,136.3,5.0,5.47
+CAR0203,Maruti,Swift,2018,Petrol,Automatic,104333,Second,19.1,1000.0,81.0,5.0,2.54
+CAR0204,Renault,Triber,2016,Petrol,Automatic,21120,First,23.2,1200.0,125.7,5.0,2.71
+CAR0205,Tata,Nexon,2013,Diesel,Automatic,149839,Second,23.2,1500.0,96.8,5.0,1.52
+CAR0206,Maruti,Dzire,2020,Diesel,Manual,32852,Second,19.9,1200.0,114.1,5.0,3.87
+CAR0207,Maruti,Ertiga,2018,Diesel,Automatic,89239,First,13.2,1200.0,146.8,7.0,4.04
+CAR0208,Tata,Punch,2018,Diesel,Manual,142001,Second,22.9,1200.0,161.8,5.0,2.09
+CAR0209,Maruti,Dzire,2021,Petrol,Automatic,101575,Second,23.3,1500.0,84.8,7.0,4.01
+CAR0210,Maruti,WagonR,2020,Diesel,Automatic,105040,First,12.9,1800.0,110.8,5.0,4.62
+CAR0211,Honda,WR-V,2013,Petrol,Automatic,15744,Third,21.1,1000.0,90.4,5.0,2.18
+CAR0212,Mahindra,XUV300,2015,Diesel,Manual,148141,Third,14.3,2000.0,79.8,5.0,1.85
+CAR0213,Tata,Tiago,2014,Petrol,Manual,52359,Second,22.0,1500.0,167.5,5.0,1.7
+CAR0214,Maruti,Baleno,2019,Diesel,Manual,108746,Second,,1600.0,186.4,7.0,3.81
+CAR0215,Mahindra,Marazzo,2011,Petrol,Automatic,130906,First,,1500.0,105.5,5.0,1.53
+CAR0216,Maruti,Ertiga,2018,Diesel,Automatic,17597,Third,23.5,1600.0,162.7,5.0,3.68
+CAR0217,Hyundai,Creta,2020,Petrol,Manual,57093,Second,19.3,800.0,184.5,5.0,3.73
+CAR0218,Mahindra,XUV500,2021,Diesel,Manual,124650,Second,24.6,1600.0,176.9,5.0,4.66
+CAR0219,Tata,Safari,2016,Petrol,Manual,130956,Third,17.0,800.0,77.4,5.0,1.26
+CAR0220,Toyota,Fortuner,2020,Petrol,Automatic,125598,First,22.7,1800.0,193.4,5.0,7.47
+CAR0221,Tata,Punch,2012,Petrol,Automatic,143241,Third,10.9,2500.0,106.5,5.0,1.18
+CAR0222,Honda,Amaze,2020,Petrol,Manual,18036,First,,1000.0,100.9,5.0,5.42
+CAR0223,Maruti,Baleno,2013,Diesel,Manual,41778,First,11.0,1000.0,59.4,4.0,1.76
+CAR0224,Hyundai,Venue,2016,Petrol,Automatic,147416,First,24.6,1600.0,122.9,5.0,3.01
+CAR0225,Hyundai,Santro,2020,CNG,Automatic,28800,Fourth & Above,22.3,1000.0,66.4,5.0,3.19
+CAR0226,Maruti,Alto,2013,Petrol,Manual,35372,Third,22.8,1800.0,87.3,5.0,1.37
+CAR0227,Chevrolet,Spark,2014,Petrol,Manual,71516,Second,24.1,,97.5,8.0,1.66
+CAR0228,Hyundai,Venue,2019,Diesel,Manual,30538,Second,11.3,1000.0,171.3,5.0,3.97
+CAR0229,Renault,Captur,2019,Diesel,Manual,73918,Second,15.8,,181.3,5.0,3.07
+CAR0230,Tata,Punch,2019,Petrol,Manual,81155,Third,11.1,1500.0,95.4,5.0,2.07
+CAR0231,Ford,EcoSport,2019,Diesel,Manual,69500,First,13.2,1600.0,178.8,5.0,4.37
+CAR0232,Honda,Civic,2018,Diesel,Automatic,120659,First,13.4,1200.0,178.6,5.0,4.85
+CAR0233,Tata,Punch,2015,Petrol,Manual,37716,First,17.0,,164.7,5.0,1.99
+CAR0234,Honda,CR-V,2016,Electric,Automatic,144308,Second,14.0,1500.0,72.0,4.0,3.27
+CAR0235,Maruti,Vitara Brezza,2014,CNG,Manual,12352,Second,11.5,1500.0,153.5,4.0,1.74
+CAR0236,Mahindra,Marazzo,2021,Diesel,Manual,143004,First,12.5,1500.0,191.8,5.0,4.69
+CAR0237,Hyundai,Venue,2018,Petrol,Manual,86449,First,12.2,1500.0,152.4,7.0,3.6
+CAR0238,Maruti,Swift,2016,Diesel,Manual,18556,Third,24.6,1200.0,99.7,7.0,2.36
+CAR0239,Tata,Nexon,2017,Petrol,Automatic,96836,First,21.4,1000.0,125.1,5.0,2.77
+CAR0240,Maruti,Swift,2022,Petrol,Automatic,146570,Second,24.5,1600.0,146.9,5.0,4.24
+CAR0241,Nissan,Magnite,2013,Petrol,Manual,60098,Fourth & Above,,1000.0,126.6,7.0,1.3
+CAR0242,Nissan,Terrano,2018,Petrol,Manual,122169,First,14.2,1500.0,68.0,5.0,2.1
+CAR0243,Volkswagen,Tiguan,2017,Diesel,Automatic,136060,First,22.0,1000.0,96.8,7.0,5.04
+CAR0244,Hyundai,Venue,2018,Diesel,Manual,140544,Second,14.9,1500.0,170.4,5.0,2.86
+CAR0245,Maruti,Baleno,2010,Diesel,Manual,10340,Third,14.5,1500.0,179.2,7.0,1.35
+CAR0246,Volkswagen,Virtus,2021,Petrol,Automatic,92302,Second,13.5,1000.0,70.6,5.0,5.05
+CAR0247,Hyundai,Verna,2022,Petrol,Manual,10138,Fourth & Above,11.9,800.0,192.9,7.0,4.47
+CAR0248,Chevrolet,Beat,2018,Petrol,Manual,141430,First,13.8,,99.3,5.0,1.98
+CAR0249,Chevrolet,Trailblazer,2019,Electric,Manual,129619,Second,15.3,1500.0,149.3,5.0,2.72
+CAR0250,Toyota,Urban Cruiser,2021,Petrol,Automatic,95376,Second,20.1,1600.0,162.8,7.0,8.91
+CAR0251,Hyundai,Grand i10,2019,Diesel,Manual,109931,Third,10.9,800.0,171.8,5.0,2.75
+CAR0252,Hyundai,Elantra,2013,Diesel,Manual,91532,First,13.2,1500.0,191.9,5.0,2.01
+CAR0253,Toyota,Camry,2018,Petrol,Automatic,65778,Third,22.1,1200.0,96.9,5.0,4.53
+CAR0254,Hyundai,Venue,2018,Diesel,Manual,47772,Second,12.2,1200.0,,5.0,3.52
+CAR0255,Maruti,Baleno,2017,Petrol,Automatic,68478,First,15.1,2000.0,69.8,7.0,3.2
+CAR0256,Honda,Amaze,2019,Diesel,Manual,36762,First,,1200.0,155.8,5.0,5.55
+CAR0257,Nissan,Sunny,2022,CNG,Automatic,65568,Third,12.3,1200.0,161.3,5.0,3.85
+CAR0258,Mahindra,XUV500,2021,Petrol,Manual,95090,First,11.2,800.0,151.7,5.0,4.29
+CAR0259,Tata,Altroz,2017,Petrol,Manual,30219,First,17.3,800.0,87.8,5.0,2.19
+CAR0260,Maruti,Baleno,2012,Diesel,Manual,67169,First,14.5,1000.0,181.0,5.0,1.72
+CAR0261,Tata,Punch,2023,CNG,Manual,84965,Third,18.5,800.0,75.3,5.0,3.62
+CAR0262,Skoda,Octavia,2020,Petrol,Automatic,94754,Second,22.1,1500.0,58.0,5.0,5.96
+CAR0263,Maruti,Swift,2013,Diesel,Automatic,87988,Second,12.1,1200.0,157.6,8.0,2.21
+CAR0264,Honda,City,2021,Diesel,Manual,142379,First,18.7,1200.0,121.3,5.0,5.12
+CAR0265,Renault,Captur,2021,Diesel,Manual,90388,Second,17.6,1000.0,177.4,5.0,3.25
+CAR0266,Mahindra,Thar,2017,Petrol,Automatic,100768,Second,12.2,1000.0,107.5,8.0,3.55
+CAR0267,Mahindra,XUV500,2018,Diesel,Automatic,45428,Third,19.4,1500.0,75.2,5.0,3.58
+CAR0268,Mahindra,Scorpio,2016,CNG,Manual,102021,Third,14.1,2200.0,175.5,7.0,2.52
+CAR0269,Hyundai,Creta,2011,Petrol,Manual,128418,First,17.3,800.0,132.3,5.0,1.27
+CAR0270,Hyundai,Grand i10,2016,Petrol,Manual,142212,Second,11.2,1800.0,78.4,7.0,2.11
+CAR0271,Ford,EcoSport,2020,CNG,Manual,36421,First,16.9,1500.0,158.1,5.0,3.55
+CAR0272,Toyota,Camry,2010,Petrol,Manual,11708,Second,14.6,1500.0,126.7,7.0,2.43
+CAR0273,Renault,Triber,2016,Diesel,Manual,144702,First,22.3,1200.0,140.6,5.0,1.85
+CAR0274,Volkswagen,Virtus,2016,Petrol,Manual,86021,First,10.9,800.0,119.1,5.0,3.1
+CAR0275,Honda,Amaze,2018,Petrol,Automatic,54789,First,16.3,800.0,174.3,5.0,4.37
+CAR0276,Honda,WR-V,2021,Diesel,Manual,36086,Second,16.9,1500.0,174.4,5.0,5.39
+CAR0277,Ford,Freestyle,2016,Petrol,Manual,26859,First,20.9,1200.0,156.4,5.0,2.76
+CAR0278,Tata,Harrier,2016,Petrol,Manual,17684,Second,18.6,2000.0,65.8,5.0,2.26
+CAR0279,Mahindra,Scorpio,2019,Petrol,Manual,101088,First,20.0,1200.0,175.8,5.0,3.5
+CAR0280,Ford,Figo,2017,Diesel,Manual,142279,First,21.7,1000.0,150.7,5.0,2.44
+CAR0281,Renault,Duster,2014,Petrol,Manual,56099,Second,22.9,1500.0,154.6,5.0,1.38
+CAR0282,Hyundai,Elantra,2017,Petrol,Manual,76093,First,14.7,1000.0,104.4,5.0,2.95
+CAR0283,Hyundai,Creta,2013,CNG,Manual,58651,First,18.1,1200.0,181.9,5.0,1.88
+CAR0284,Maruti,Alto,2013,Petrol,Manual,23893,Second,22.6,1500.0,158.8,5.0,1.66
+CAR0285,Tata,Punch,2017,Diesel,Manual,76418,First,24.8,2000.0,66.9,5.0,2.52
+CAR0286,Maruti,Dzire,2016,Petrol,Automatic,135074,First,23.3,1600.0,111.2,5.0,2.67
+CAR0287,Honda,CR-V,2021,Diesel,Manual,113065,First,15.6,1500.0,183.0,5.0,5.34
+CAR0288,Honda,CR-V,2016,Petrol,Automatic,140351,Third,12.9,1500.0,57.1,5.0,2.15
+CAR0289,Hyundai,i20,2018,CNG,Manual,48635,Second,17.3,2000.0,194.2,7.0,3.32
+CAR0290,Tata,Nexon,2019,Petrol,Manual,105071,Second,21.1,1000.0,151.9,5.0,2.36
+CAR0291,Maruti,Swift,2010,Petrol,Manual,88518,Second,,800.0,144.7,5.0,1.06
+CAR0292,Maruti,WagonR,2019,Petrol,Manual,116233,First,17.2,1000.0,90.6,5.0,2.63
+CAR0293,Toyota,Fortuner,2013,Petrol,Automatic,113651,First,22.6,1000.0,87.3,5.0,3.14
+CAR0294,Hyundai,Venue,2022,Petrol,Automatic,82805,Second,15.4,1500.0,191.3,5.0,5.47
+CAR0295,Maruti,Alto,2013,Petrol,Automatic,132813,First,22.9,1500.0,94.7,5.0,1.49
+CAR0296,Honda,Civic,2016,Diesel,Manual,89063,First,16.1,1500.0,166.3,5.0,3.38
+CAR0297,Ford,EcoSport,2012,Petrol,Manual,12454,First,14.9,800.0,109.0,4.0,1.8
+CAR0298,Maruti,Ertiga,2023,Petrol,Manual,30878,First,16.8,1500.0,70.9,5.0,4.94
+CAR0299,Tata,Altroz,2017,Diesel,Manual,78344,Fourth & Above,21.4,1200.0,51.6,5.0,1.83
+CAR0300,Maruti,Vitara Brezza,2018,Diesel,Manual,114946,First,11.9,1500.0,131.6,4.0,2.65
+CAR0301,Maruti,Ertiga,2011,Petrol,Manual,46593,Second,12.9,1500.0,196.4,5.0,1.19
+CAR0302,Honda,Jazz,2019,Petrol,Manual,46304,First,,1200.0,,8.0,5.4
+CAR0303,Honda,WR-V,2014,Petrol,Manual,123613,Fourth & Above,12.6,1000.0,103.6,5.0,1.54
+CAR0304,Tata,Tiago,2021,Diesel,Automatic,28354,First,18.5,800.0,101.6,5.0,5.61
+CAR0305,Mahindra,XUV300,2014,Diesel,Automatic,32190,First,18.7,1600.0,128.1,7.0,4.08
+CAR0306,Chevrolet,Cruze,2014,Petrol,Automatic,16142,Second,17.3,2000.0,116.1,5.0,2.31
+CAR0307,Honda,Civic,2011,Diesel,Manual,51862,Second,19.7,1500.0,182.0,5.0,2.04
+CAR0308,Hyundai,i20,2017,Diesel,Manual,135438,First,13.4,1000.0,125.8,5.0,2.72
+CAR0309,Ford,Figo,2018,Diesel,Manual,58456,First,18.3,1200.0,126.2,7.0,4.47
+CAR0310,Hyundai,Verna,2011,Diesel,Automatic,110167,First,15.6,1500.0,70.8,5.0,1.79
+CAR0311,Hyundai,Grand i10,2020,Petrol,Manual,92035,First,19.9,1600.0,197.4,5.0,3.96
+CAR0312,Maruti,Alto,2017,Petrol,Manual,18016,First,12.1,1000.0,87.5,5.0,2.63
+CAR0313,Maruti,WagonR,2018,Petrol,Automatic,12384,First,18.6,800.0,61.0,8.0,3.85
+CAR0314,Chevrolet,Beat,2017,Petrol,Manual,112239,First,12.8,1500.0,149.5,5.0,1.87
+CAR0315,Toyota,Glanza,2016,Petrol,Manual,121431,First,14.2,1200.0,139.3,5.0,3.5
+CAR0316,Mahindra,Marazzo,2018,CNG,Manual,90018,Second,13.3,1000.0,112.3,7.0,3.36
+CAR0317,Hyundai,Elantra,2013,Petrol,Manual,50510,Fourth & Above,12.7,800.0,113.3,5.0,1.28
+CAR0318,Maruti,Ertiga,2014,Petrol,Manual,31826,Second,22.4,1200.0,167.8,,1.87
+CAR0319,Maruti,Swift,2021,Petrol,Manual,78026,First,14.3,1800.0,79.4,5.0,3.51
+CAR0320,Hyundai,Creta,2022,CNG,Manual,131668,First,23.9,2200.0,173.0,5.0,4.9
+CAR0321,Honda,Jazz,2016,Petrol,Manual,34045,Fourth & Above,24.5,1500.0,,7.0,2.78
+CAR0322,Mahindra,XUV500,2015,Petrol,Automatic,100102,First,18.6,1200.0,112.8,5.0,2.92
+CAR0323,Tata,Harrier,2019,Petrol,Manual,61919,First,12.1,800.0,118.7,7.0,3.09
+CAR0324,Hyundai,Verna,2016,Petrol,Manual,109441,Second,15.6,1200.0,88.5,5.0,1.99
+CAR0325,Nissan,Sunny,2010,Electric,Manual,146917,Second,22.0,1200.0,162.8,5.0,1.27
+CAR0326,Mahindra,Thar,2013,CNG,Automatic,128325,Second,15.5,1500.0,126.9,8.0,2.06
+CAR0327,Honda,Civic,2019,Petrol,Manual,29337,First,11.3,1200.0,98.1,5.0,4.21
+CAR0328,Tata,Altroz,2019,CNG,Manual,87949,First,18.4,1000.0,139.4,5.0,2.83
+CAR0329,Hyundai,Venue,2010,Diesel,Automatic,10276,Fourth & Above,22.7,800.0,199.4,5.0,1.43
+CAR0330,Maruti,Baleno,2014,Diesel,Automatic,61151,First,21.9,1200.0,115.3,7.0,3.13
+CAR0331,Hyundai,Verna,2014,Petrol,Manual,62887,Second,12.6,800.0,188.1,5.0,1.99
+CAR0332,Ford,Figo,2019,Petrol,Automatic,91442,Second,20.1,1000.0,101.8,5.0,3.24
+CAR0333,Maruti,Baleno,2010,Petrol,Manual,59847,Second,13.3,2500.0,58.2,5.0,1.08
+CAR0334,Maruti,Ertiga,2012,Diesel,Manual,68653,First,13.3,1200.0,80.6,5.0,1.46
+CAR0335,Maruti,Swift,2020,Petrol,Manual,66622,First,23.1,1200.0,112.8,5.0,3.57
+CAR0336,Maruti,Baleno,2013,Petrol,Manual,37810,Second,13.7,1800.0,82.9,5.0,1.61
+CAR0337,Toyota,Innova,2019,Petrol,Automatic,87842,Third,13.9,,50.0,5.0,5.03
+CAR0338,Mahindra,Thar,2014,Diesel,Manual,132225,Third,10.0,1500.0,187.3,5.0,1.71
+CAR0339,Honda,Jazz,2012,Petrol,Manual,20503,First,23.1,1600.0,176.6,5.0,2.47
+CAR0340,Maruti,Alto,2014,Diesel,Automatic,94761,First,21.9,1200.0,161.3,7.0,2.73
+CAR0341,Honda,City,2019,CNG,Automatic,136439,Third,19.4,1200.0,75.2,5.0,2.95
+CAR0342,Honda,Amaze,2021,Petrol,Manual,21590,Second,21.3,1200.0,68.1,8.0,6.1
+CAR0343,Maruti,Swift,2020,Diesel,Manual,76624,Third,12.3,1500.0,60.1,5.0,2.58
+CAR0344,Hyundai,Venue,2016,Petrol,Manual,130356,First,16.9,1500.0,,5.0,2.3
+CAR0345,Hyundai,Elantra,2019,Diesel,Automatic,52727,Second,15.3,1200.0,189.3,7.0,5.21
+CAR0346,Tata,Harrier,2014,Petrol,Manual,88471,Second,11.4,1000.0,114.6,5.0,1.37
+CAR0347,Tata,Nexon,2015,Diesel,Automatic,18068,Second,17.3,1500.0,67.9,5.0,2.43
+CAR0348,Maruti,Ertiga,2021,Diesel,Manual,126923,First,23.8,1000.0,126.9,8.0,4.47
+CAR0349,Hyundai,Elantra,2010,CNG,Manual,148367,First,10.6,1500.0,102.3,5.0,1.04
+CAR0350,Tata,Tiago,2012,Diesel,Manual,21390,Second,14.4,1500.0,106.2,5.0,1.43
+CAR0351,Honda,CR-V,2014,Petrol,Manual,116752,First,,1500.0,143.2,5.0,2.15
+CAR0352,Toyota,Innova,2010,Diesel,Manual,104754,First,13.6,1600.0,157.8,5.0,2.39
+CAR0353,Tata,Safari,2014,Diesel,Automatic,85969,Fourth & Above,23.6,1800.0,66.6,5.0,1.5
+CAR0354,Maruti,Alto,2018,Diesel,Manual,87064,First,17.0,1200.0,,4.0,2.7
+CAR0355,Maruti,Alto,2017,Petrol,Manual,31281,Third,17.0,1500.0,199.1,4.0,1.98
+CAR0356,Tata,Safari,2021,CNG,Automatic,64189,First,21.4,1500.0,84.9,5.0,3.69
+CAR0357,Maruti,Swift,2020,Diesel,Manual,58511,Second,12.3,1000.0,58.1,5.0,3.07
+CAR0358,Tata,Tiago,2016,Diesel,Automatic,132115,Fourth & Above,17.3,800.0,78.5,5.0,1.45
+CAR0359,Nissan,Sunny,2015,Petrol,Manual,18605,First,16.4,1000.0,55.8,5.0,1.94
+CAR0360,Tata,Altroz,2016,Diesel,Manual,110318,First,19.0,1200.0,108.8,5.0,2.39
+CAR0361,Hyundai,Santro,2018,Petrol,Manual,142453,First,25.0,1500.0,170.4,4.0,2.51
+CAR0362,Tata,Punch,2015,Diesel,Manual,29810,First,21.5,1600.0,101.2,5.0,2.7
+CAR0363,Honda,CR-V,2018,Petrol,Automatic,51869,Second,16.0,1000.0,116.6,4.0,3.97
+CAR0364,Honda,City,2016,Diesel,Manual,42955,Third,22.4,1000.0,151.3,5.0,3.32
+CAR0365,Nissan,Terrano,2018,Electric,Manual,71388,First,12.6,2200.0,126.3,7.0,4.14
+CAR0366,Hyundai,i20,2017,Petrol,Manual,20207,First,10.5,1000.0,179.2,5.0,3.36
+CAR0367,Chevrolet,Spark,2015,CNG,Manual,32031,First,13.1,1200.0,179.9,5.0,1.91
+CAR0368,Volkswagen,Vento,2022,Petrol,Automatic,90807,Second,15.1,1500.0,51.5,5.0,5.88
+CAR0369,Maruti,WagonR,2020,Diesel,Manual,81312,First,17.7,1200.0,166.7,5.0,3.97
+CAR0370,Maruti,Swift,2013,Diesel,Manual,69766,Second,19.2,800.0,119.1,7.0,2.0
+CAR0371,Maruti,Dzire,2021,Diesel,Automatic,99833,Second,23.7,800.0,198.3,7.0,4.98
+CAR0372,Maruti,WagonR,2017,Diesel,Manual,121041,Second,17.6,1000.0,122.5,5.0,2.31
+CAR0373,Maruti,Vitara Brezza,2021,Diesel,Automatic,126185,First,17.5,1500.0,,5.0,4.75
+CAR0374,Mahindra,Thar,2020,Petrol,Manual,20350,Second,10.8,1200.0,163.2,7.0,4.73
+CAR0375,Maruti,Dzire,2017,Petrol,Manual,110859,First,10.5,1000.0,87.3,8.0,2.27
+CAR0376,Hyundai,Grand i10,2010,Diesel,Manual,78487,First,18.3,1500.0,130.8,5.0,1.66
+CAR0377,Toyota,Camry,2015,Diesel,Automatic,133853,Third,16.6,1600.0,198.8,5.0,3.87
+CAR0378,Maruti,Dzire,2018,Diesel,Automatic,63117,Second,22.6,800.0,178.6,5.0,3.8
+CAR0379,Toyota,Urban Cruiser,2019,Diesel,Manual,111084,First,12.4,1200.0,64.6,8.0,6.33
+CAR0380,Hyundai,Grand i10,2015,Petrol,Manual,33782,First,10.4,1500.0,156.0,5.0,2.36
+CAR0381,Maruti,Alto,2013,Diesel,Manual,38454,First,16.7,1000.0,101.8,5.0,2.11
+CAR0382,Mahindra,Bolero,2020,Petrol,Manual,77904,First,13.6,1200.0,51.0,5.0,3.5
+CAR0383,Tata,Tiago,2023,Petrol,Manual,139936,First,10.7,,110.5,5.0,3.82
+CAR0384,Renault,Captur,2018,Petrol,Automatic,132258,First,20.9,1800.0,85.2,5.0,2.52
+CAR0385,Mahindra,Scorpio,2013,Petrol,Manual,121668,First,11.7,1600.0,172.8,8.0,2.21
+CAR0386,Ford,Figo,2015,Petrol,Manual,134184,Second,19.1,1500.0,100.6,5.0,1.57
+CAR0387,Hyundai,i20,2010,Petrol,Manual,26566,Second,14.2,1500.0,174.1,5.0,1.39
+CAR0388,Maruti,Baleno,2021,Diesel,Manual,148262,Second,12.6,1200.0,50.1,5.0,2.84
+CAR0389,Ford,Figo,2012,Petrol,Manual,48333,First,15.7,1500.0,96.2,5.0,1.48
+CAR0390,Ford,Freestyle,2018,Petrol,Manual,131929,Fourth & Above,22.0,1200.0,86.2,5.0,1.78
+CAR0391,Skoda,Kushaq,2015,Petrol,Automatic,99571,Third,15.9,1000.0,85.0,5.0,2.71
+CAR0392,Hyundai,Grand i10,2018,Petrol,Manual,130263,Third,21.3,1500.0,60.2,5.0,1.93
+CAR0393,Hyundai,Elantra,2019,Petrol,Manual,142661,Third,11.9,1500.0,78.1,5.0,2.02
+CAR0394,Ford,Freestyle,2020,Petrol,Manual,35235,Third,21.6,1200.0,133.3,5.0,3.5
+CAR0395,Hyundai,Santro,2014,Diesel,Automatic,10159,Second,13.6,2000.0,93.7,5.0,2.75
+CAR0396,Nissan,Kicks,2010,Diesel,Automatic,114859,First,20.2,800.0,112.6,8.0,1.7
+CAR0397,Toyota,Camry,2013,Diesel,Manual,117507,Second,18.5,1200.0,106.5,7.0,3.28
+CAR0398,Hyundai,i20,2021,Petrol,Automatic,149316,Second,23.9,800.0,181.4,5.0,3.95
+CAR0399,Ford,Endeavour,2021,Petrol,Manual,24743,Second,15.8,1600.0,185.8,5.0,4.02
+CAR0400,Ford,Aspire,2018,Diesel,Manual,56101,Second,11.0,1500.0,123.9,7.0,3.58
+CAR0401,Maruti,Swift,2018,Petrol,Manual,131534,First,10.3,1200.0,99.5,4.0,2.1
+CAR0402,Volkswagen,Polo,2019,Petrol,Manual,94227,First,22.4,1500.0,66.0,7.0,5.24
+CAR0403,Honda,Civic,2013,Petrol,Manual,81126,Third,17.9,1200.0,193.0,7.0,1.87
+CAR0404,Toyota,Innova,2021,Petrol,Automatic,66071,Second,21.6,1600.0,59.0,5.0,7.79
+CAR0405,Hyundai,Grand i10,2016,Petrol,Automatic,84763,Second,13.5,1200.0,94.6,5.0,2.41
+CAR0406,Renault,Triber,2016,Petrol,Manual,56154,First,15.2,1200.0,94.7,8.0,2.0
+CAR0407,Hyundai,i20,2017,Diesel,Manual,17016,First,10.5,2000.0,98.1,5.0,3.79
+CAR0408,Maruti,WagonR,2011,Petrol,Manual,99678,Third,,1000.0,74.6,4.0,1.0
+CAR0409,Volkswagen,Vento,2013,Diesel,Manual,122056,Second,20.0,1000.0,167.5,5.0,2.24
+CAR0410,Maruti,Ertiga,2019,Diesel,Manual,64238,Second,24.0,1500.0,68.4,,3.17
+CAR0411,Hyundai,Creta,2012,Diesel,Manual,68608,First,14.0,2200.0,145.2,5.0,2.1
+CAR0412,Nissan,Terrano,2018,Diesel,Manual,99081,Second,19.2,1200.0,68.6,5.0,2.5
+CAR0413,Nissan,Terrano,2014,CNG,Automatic,60961,First,20.2,800.0,60.6,8.0,2.19
+CAR0414,Tata,Tiago,2016,Petrol,Manual,36917,Second,14.8,1200.0,186.4,5.0,1.86
+CAR0415,Tata,Harrier,2015,Petrol,Manual,37990,First,22.7,1200.0,78.5,5.0,1.75
+CAR0416,Hyundai,Verna,2016,Petrol,Automatic,72551,First,24.2,1000.0,173.2,5.0,2.96
+CAR0417,Hyundai,i20,2019,Diesel,Manual,90811,Second,23.3,1500.0,131.7,5.0,3.62
+CAR0418,Hyundai,Verna,2015,Diesel,Manual,65103,Third,21.1,2500.0,61.7,5.0,2.4
+CAR0419,Mahindra,Thar,2018,Petrol,Manual,116122,First,14.2,1200.0,193.3,8.0,3.3
+CAR0420,Ford,Freestyle,2017,CNG,Manual,29008,Third,14.2,1200.0,87.0,7.0,2.26
+CAR0421,Ford,Figo,2019,Petrol,Automatic,42402,First,24.5,1200.0,178.9,5.0,4.07
+CAR0422,Ford,Endeavour,2022,CNG,Manual,146865,First,10.2,1000.0,75.3,5.0,3.33
+CAR0423,Maruti,Alto,2019,Petrol,Manual,146643,First,20.7,1800.0,178.1,5.0,2.64
+CAR0424,Honda,Civic,2014,Petrol,Automatic,123550,First,20.6,1200.0,52.0,5.0,2.68
+CAR0425,Maruti,Ertiga,2011,Petrol,Automatic,101218,Second,19.3,1200.0,126.8,5.0,1.4
+CAR0426,Honda,WR-V,2015,Petrol,Automatic,143296,First,24.9,1500.0,165.4,5.0,3.08
+CAR0427,Hyundai,Elantra,2018,Petrol,Manual,130779,First,14.7,1200.0,190.2,8.0,3.27
+CAR0428,Renault,Kiger,2011,Petrol,Manual,139714,Third,15.1,1500.0,186.4,5.0,1.0
+CAR0429,Hyundai,Verna,2017,Diesel,Automatic,42441,First,11.2,800.0,,5.0,4.13
+CAR0430,Maruti,Dzire,2018,Petrol,Automatic,72368,Second,16.6,1600.0,183.2,5.0,3.04
+CAR0431,Maruti,Swift,2016,Petrol,Manual,102122,First,13.9,2000.0,79.9,5.0,2.05
+CAR0432,Ford,Figo,2020,Diesel,Manual,54760,Second,15.2,1500.0,92.6,5.0,3.8
+CAR0433,Tata,Harrier,2012,Diesel,Manual,33478,First,22.5,2200.0,93.3,5.0,1.64
+CAR0434,Maruti,Baleno,2012,Petrol,Automatic,137881,First,24.0,1000.0,106.6,5.0,1.61
+CAR0435,Maruti,WagonR,2019,Petrol,Manual,81854,First,12.8,1200.0,109.0,5.0,2.85
+CAR0436,Mahindra,XUV500,2017,Petrol,Manual,104230,First,15.6,1500.0,131.7,5.0,2.93
+CAR0437,Maruti,Dzire,2019,Petrol,Manual,95716,First,23.9,1500.0,74.0,5.0,2.94
+CAR0438,Toyota,Camry,2017,Diesel,Manual,108538,Second,10.9,1200.0,153.7,5.0,4.35
+CAR0439,Mahindra,Scorpio,2014,Petrol,Automatic,25372,Third,11.4,1200.0,75.1,5.0,2.2
+CAR0440,Maruti,Swift,2020,Petrol,Manual,39796,Third,12.4,1000.0,96.5,7.0,3.02
+CAR0441,Maruti,Swift,2020,Diesel,Automatic,108826,Second,18.9,1200.0,125.5,5.0,4.17
+CAR0442,Skoda,Rapid,2019,Petrol,Automatic,130592,First,12.3,1000.0,,5.0,5.63
+CAR0443,Hyundai,Grand i10,2015,Diesel,Manual,103635,First,24.5,1500.0,160.9,5.0,2.64
+CAR0444,Hyundai,Grand i10,2018,Petrol,Manual,121022,First,16.7,1000.0,,5.0,2.8
+CAR0445,Toyota,Innova,2016,CNG,Manual,64040,First,17.5,800.0,73.4,4.0,3.67
+CAR0446,Nissan,Magnite,2012,Petrol,Automatic,85357,Second,13.7,1500.0,132.1,5.0,1.58
+CAR0447,Skoda,Rapid,2021,Diesel,Manual,88356,Second,17.1,1500.0,63.1,5.0,5.79
+CAR0448,Ford,Freestyle,2013,Diesel,Manual,26211,First,19.9,1800.0,106.6,5.0,2.64
+CAR0449,Hyundai,Venue,2022,Petrol,Automatic,115426,First,21.3,1500.0,112.0,8.0,6.53
+CAR0450,Maruti,Baleno,2017,Diesel,Manual,15842,Third,21.3,1200.0,56.0,5.0,2.28
+CAR0451,Ford,EcoSport,2014,CNG,Automatic,76852,Second,18.7,1600.0,91.1,7.0,2.33
+CAR0452,Honda,WR-V,2018,Diesel,Manual,135737,First,23.6,1200.0,193.3,5.0,3.79
+CAR0453,Hyundai,Creta,2021,Diesel,Manual,55968,Third,22.3,800.0,,5.0,4.02
+CAR0454,Volkswagen,Virtus,2019,Diesel,Manual,27508,Fourth & Above,21.4,1500.0,102.8,7.0,4.62
+CAR0455,Maruti,Ertiga,2020,Petrol,Automatic,64575,First,10.8,2000.0,56.5,5.0,4.15
+CAR0456,Honda,Civic,2019,Petrol,Manual,76914,First,10.1,1200.0,76.9,5.0,3.54
+CAR0457,Maruti,Alto,2019,Diesel,Automatic,77055,Second,13.2,1000.0,108.8,5.0,3.55
+CAR0458,Honda,Amaze,2020,Petrol,Automatic,97697,Third,20.0,1000.0,192.2,5.0,4.53
+CAR0459,Maruti,Baleno,2014,Diesel,Manual,116239,Third,16.2,1000.0,71.2,5.0,1.45
+CAR0460,Maruti,Swift,2017,CNG,Automatic,133106,First,16.0,1200.0,164.5,5.0,2.45
+CAR0461,Maruti,Swift,2014,Petrol,Manual,15355,First,23.3,1500.0,66.3,7.0,2.41
+CAR0462,Tata,Tiago,2023,Petrol,Manual,64120,Second,23.4,800.0,197.2,5.0,4.68
+CAR0463,Mahindra,Thar,2022,Diesel,Manual,48342,Second,23.6,2000.0,107.2,8.0,7.5
+CAR0464,Tata,Punch,2011,Petrol,Automatic,12257,First,14.7,1600.0,166.3,8.0,2.11
+CAR0465,Chevrolet,Trailblazer,2019,Diesel,Manual,37364,Third,20.4,1500.0,101.4,5.0,2.97
+CAR0466,Hyundai,Verna,2021,Petrol,Manual,121715,Second,14.1,1600.0,,5.0,3.65
+CAR0467,Hyundai,Creta,2014,Diesel,Manual,36654,Third,12.9,800.0,78.8,7.0,1.99
+CAR0468,Renault,Duster,2018,Petrol,Manual,91423,Third,12.8,1200.0,71.9,8.0,1.91
+CAR0469,Maruti,Vitara Brezza,2021,Diesel,Manual,39320,Second,15.1,1500.0,190.7,5.0,3.8
+CAR0470,Chevrolet,Beat,2011,Petrol,Automatic,30808,First,16.4,1600.0,187.6,5.0,1.75
+CAR0471,Maruti,Baleno,2019,Diesel,Automatic,62389,Second,22.5,1600.0,183.1,5.0,4.15
+CAR0472,Chevrolet,Cruze,2015,Petrol,Manual,128581,First,11.8,1000.0,143.8,5.0,1.59
+CAR0473,Maruti,Baleno,2021,Diesel,Automatic,137927,Second,21.0,2000.0,171.2,5.0,4.48
+CAR0474,Renault,Kiger,2022,Diesel,Manual,44773,First,18.0,1000.0,60.4,5.0,3.84
+CAR0475,Honda,Amaze,2022,Petrol,Automatic,86396,Second,14.3,1800.0,100.2,5.0,6.75
+CAR0476,Skoda,Rapid,2017,Petrol,Manual,117692,First,17.4,2200.0,97.1,4.0,3.79
+CAR0477,Maruti,Swift,2021,Petrol,Manual,67505,First,14.5,1000.0,145.3,5.0,3.94
+CAR0478,Honda,WR-V,2020,Diesel,Manual,95896,First,18.9,1500.0,103.4,5.0,5.57
+CAR0479,Chevrolet,Beat,2015,Diesel,Automatic,28135,First,16.5,800.0,72.3,5.0,2.54
+CAR0480,Honda,CR-V,2020,Petrol,Manual,100887,Second,12.5,1200.0,139.5,5.0,4.0
+CAR0481,Tata,Punch,2011,Petrol,Manual,132118,Second,11.7,1200.0,172.2,5.0,1.0
+CAR0482,Mahindra,XUV500,2018,Petrol,Manual,57377,Second,18.2,1500.0,107.3,5.0,3.15
+CAR0483,Honda,CR-V,2014,Diesel,Manual,72491,First,23.5,2000.0,69.8,5.0,2.86
+CAR0484,Tata,Tiago,2013,Petrol,Manual,68283,First,15.2,1500.0,79.5,8.0,1.59
+CAR0485,Tata,Safari,2012,Electric,Automatic,26923,First,21.0,1200.0,85.6,5.0,2.15
+CAR0486,Volkswagen,Taigun,2019,Petrol,Automatic,57591,First,19.9,1600.0,95.0,5.0,5.69
+CAR0487,Maruti,Baleno,2016,Diesel,Manual,72261,Third,24.0,2200.0,146.4,5.0,2.38
+CAR0488,Hyundai,Grand i10,2019,Petrol,Automatic,64336,First,22.3,800.0,140.1,8.0,5.26
+CAR0489,Nissan,Magnite,2011,Petrol,Manual,84083,First,18.5,2500.0,154.4,5.0,1.41
+CAR0490,Renault,Captur,2015,Diesel,Automatic,70948,First,19.9,800.0,104.4,5.0,2.25
+CAR0491,Honda,Civic,2018,Diesel,Automatic,36672,First,23.5,,173.6,5.0,6.35
+CAR0492,Tata,Nexon,2020,Electric,Manual,14213,Second,16.0,1000.0,80.6,5.0,3.73
+CAR0493,Hyundai,Creta,2015,Petrol,Automatic,72507,Second,14.9,1000.0,120.4,5.0,2.51
+CAR0494,Maruti,Swift,2018,Petrol,Manual,67134,First,10.2,1200.0,170.1,5.0,2.64
+CAR0495,Honda,WR-V,2021,Diesel,Manual,143172,First,22.4,1500.0,77.0,5.0,4.9
+CAR0496,Hyundai,Verna,2018,Diesel,Automatic,38172,First,22.0,1200.0,66.5,5.0,4.76
+CAR0497,Tata,Punch,2014,Petrol,Manual,30132,First,11.6,800.0,182.6,5.0,1.71
+CAR0498,Maruti,Baleno,2010,Petrol,Manual,28199,First,,1500.0,101.4,5.0,1.44
+CAR0499,Chevrolet,Spark,2021,Petrol,Manual,46609,Fourth & Above,17.0,2000.0,152.6,7.0,3.14
+CAR0500,Skoda,Slavia,2010,Diesel,Automatic,149088,Second,11.8,1200.0,53.8,4.0,1.78
+CAR0501,Mahindra,Thar,2021,Petrol,Manual,41881,Second,24.7,1000.0,153.5,7.0,5.22
+CAR0502,Honda,Amaze,2018,Petrol,Manual,34472,First,13.2,1200.0,97.4,5.0,3.51
+CAR0503,Hyundai,i20,2022,Petrol,Automatic,64131,First,11.0,800.0,58.4,5.0,5.33
+CAR0504,Toyota,Camry,2020,Petrol,Automatic,22828,Second,18.9,1600.0,141.5,5.0,8.41
+CAR0505,Mahindra,Marazzo,2023,Petrol,Manual,106664,Second,21.1,1600.0,86.1,8.0,6.66
+CAR0506,Maruti,Swift,2016,Petrol,Manual,142473,Second,10.5,1500.0,108.0,5.0,1.74
+CAR0507,Volkswagen,Vento,2020,Petrol,Manual,25193,First,19.9,1200.0,62.1,5.0,5.66
+CAR0508,Toyota,Innova,2016,Diesel,Manual,112518,Second,18.0,1600.0,,5.0,3.6
+CAR0509,Nissan,Kicks,2017,Petrol,Manual,29611,First,11.5,1500.0,94.7,5.0,2.53
+CAR0510,Mahindra,Thar,2018,Petrol,Automatic,86240,Third,,1600.0,63.5,5.0,3.2
+CAR0511,Tata,Punch,2021,Diesel,Manual,12745,Second,18.5,1500.0,186.6,5.0,4.42
+CAR0512,Hyundai,Grand i10,2023,Diesel,Manual,65243,Second,14.4,1600.0,50.9,5.0,6.64
+CAR0513,Nissan,Magnite,2020,Petrol,Manual,13866,First,24.1,1500.0,122.6,5.0,4.19
+CAR0514,Renault,Triber,2016,Petrol,Automatic,138681,Second,22.3,1200.0,68.5,5.0,1.61
+CAR0515,Maruti,Dzire,2017,Petrol,Manual,81354,First,24.8,2200.0,96.2,5.0,2.61
+CAR0516,Maruti,Ertiga,2019,Diesel,Automatic,61374,First,13.9,1200.0,188.9,5.0,4.07
+CAR0517,Hyundai,Grand i10,2014,Electric,Manual,124397,First,24.5,1500.0,74.3,5.0,2.44
+CAR0518,Toyota,Glanza,2012,Diesel,Manual,134577,Second,16.5,1000.0,194.9,5.0,2.21
+CAR0519,Skoda,Rapid,2016,Diesel,Manual,91029,First,15.2,1500.0,80.9,5.0,3.46
+CAR0520,Maruti,Baleno,2015,Diesel,Manual,103574,First,10.8,1500.0,161.2,8.0,2.27
+CAR0521,Tata,Safari,2015,Petrol,Manual,40431,Third,10.8,1000.0,132.0,8.0,1.87
+CAR0522,Hyundai,Santro,2014,Petrol,Manual,39336,First,20.4,800.0,182.7,7.0,2.62
+CAR0523,Chevrolet,Beat,2011,Diesel,Manual,50992,Second,16.9,1500.0,133.1,5.0,1.28
+CAR0524,Toyota,Urban Cruiser,2010,CNG,Automatic,65350,First,13.4,1600.0,130.2,5.0,2.92
+CAR0525,Toyota,Urban Cruiser,2023,Petrol,Manual,79561,First,19.2,1200.0,79.3,5.0,9.61
+CAR0526,Honda,Amaze,2017,Diesel,Automatic,61955,Second,13.8,1000.0,74.9,5.0,3.83
+CAR0527,Hyundai,Creta,2016,Petrol,Manual,71240,First,18.7,1500.0,187.5,5.0,2.52
+CAR0528,Hyundai,Venue,2019,Petrol,Manual,147227,First,15.4,800.0,99.2,5.0,2.78
+CAR0529,Maruti,Vitara Brezza,2014,Petrol,Manual,56607,Second,22.4,1200.0,105.8,7.0,2.12
+CAR0530,Renault,Captur,2022,Petrol,Manual,62870,Second,22.3,1000.0,164.0,7.0,4.1
+CAR0531,Toyota,Innova,2020,Diesel,Manual,74110,Second,17.2,1000.0,100.8,5.0,6.45
+CAR0532,Skoda,Octavia,2012,Petrol,Manual,126895,First,15.3,1000.0,192.8,5.0,2.03
+CAR0533,Skoda,Kushaq,2016,Diesel,Manual,14426,First,15.4,1200.0,160.7,,5.04
+CAR0534,Honda,Amaze,2021,Diesel,Manual,37606,Second,22.1,800.0,139.6,5.0,6.13
+CAR0535,Ford,Aspire,2022,CNG,Manual,38151,Second,14.9,1200.0,182.1,5.0,4.32
+CAR0536,Nissan,Terrano,2017,Petrol,Automatic,21308,Third,13.1,1200.0,57.4,4.0,2.24
+CAR0537,Toyota,Fortuner,2018,Petrol,Automatic,100306,Third,11.3,1200.0,88.6,5.0,4.4
+CAR0538,Maruti,Baleno,2013,Petrol,Automatic,116984,Third,17.0,1200.0,119.8,,1.39
+CAR0539,Honda,Civic,2023,Electric,Automatic,12204,First,17.2,1600.0,84.0,5.0,12.18
+CAR0540,Maruti,Vitara Brezza,2014,CNG,Manual,102769,First,22.6,1000.0,161.6,5.0,1.66
+CAR0541,Nissan,Terrano,2022,Petrol,Manual,97265,Second,13.3,1200.0,187.9,5.0,3.78
+CAR0542,Tata,Punch,2019,Diesel,Automatic,41131,First,15.7,800.0,113.6,7.0,4.71
+CAR0543,Maruti,Vitara Brezza,2018,Petrol,Manual,62428,First,22.1,800.0,101.3,5.0,
+CAR0544,Mahindra,Thar,2017,Diesel,Manual,43870,Third,22.4,1500.0,,5.0,
+CAR0545,Tata,Safari,2014,Petrol,Manual,113547,Third,15.8,1500.0,116.7,5.0,
+CAR0546,Hyundai,Verna,2013,Diesel,Manual,59067,First,16.9,1800.0,123.4,5.0,
+CAR0547,Maruti,Baleno,2014,Petrol,Manual,122217,First,14.5,1500.0,102.7,8.0,
+CAR0548,Mahindra,XUV500,2014,Diesel,Automatic,108934,First,24.0,2200.0,186.4,5.0,
+CAR0549,Honda,WR-V,2020,Diesel,Manual,84707,Third,11.8,800.0,135.3,5.0,
+CAR0550,Ford,Freestyle,2016,Diesel,Manual,71215,Third,24.0,,164.3,5.0,

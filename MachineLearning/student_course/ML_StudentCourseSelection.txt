@@ -1,0 +1,41 @@
+Question 3: Student Course Selection Prediction (Random Forest)
+Background
+A university wants to predict which elective course students will choose based on their major, GPA range, semester, and previous course completion.
+Dataset
+
+File: student_courses.csv
+Rows: 201 (Last row has missing target value)
+Columns:
+
+student_id: Unique student identifier
+major: Engineering, Business, Arts, Science
+gpa_range: Low, Medium, High
+semester: Fall, Spring, Summer
+completed_courses: Few, Moderate, Many
+elective: DataScience, WebDev, AI, CloudComputing, Cybersecurity, GameDev (MISSING for last row)
+
+
+
+Your Task
+
+Load and explore the dataset
+Perform one-hot encoding on categorical variables
+Prepare the data:
+
+Features (X): major, gpa_range, semester, completed_courses
+Target (y): elective
+
+
+Split into training (80%) and testing (20%) sets from rows 1-200
+Train a Random Forest Classifier model
+Predict the elective for row 201 (the last row with missing target)
+
+Row 201 features: Engineering, High, Fall, Many
+
+
+
+Note
+Row 201 has all features but the elective column is empty (NaN). This is the value you need to predict.
+
+Summary Table
+QuestionModel TypeDataset SizePrediction ScenarioMovie GenreLinear Regression100 complete rowsPredict day 101 (next day) with date/weekdayCustomer PurchaseLogistic Regression150 + 1 incompletePredict row 151 (missing target)Student CourseRandom Forest200 + 1 incompletePredict row 201 (missing target)
