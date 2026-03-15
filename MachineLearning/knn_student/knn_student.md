@@ -21,7 +21,7 @@ A university library wants to predict where students will choose to study based 
 - Split into training (80%) and testing (20%) sets
 - Train a KNN Classifier model (try k=3, 5, 7)
 - Evaluate model accuracy for different k values
-- Predict location for: Senior, Evening, Small_Group, Project
+- Predict location for last row
  
 
 ## Constraints

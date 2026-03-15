@@ -27,4 +27,4 @@ A restaurant wants to predict what main course customers will order based on the
 - Use `scikit-learn`'s `LinearRegression`
 - Use `pandas` for data manipulation
 - Use `pd.get_dummies` for one-hot encoding
-- Reindex prediction data to match training columns
+
