@@ -9,7 +9,7 @@ df = df.drop(columns=['InvoiceID','CustomerID'])
 df = df[df['Quantity']>0]
 
 # derive net price and computed total per sale
-df['NetUnitPrice'] = df['UnitPrice'] - (1-(df['DiscountPercent']/100))
+df['NetUnitPrice'] = df['UnitPrice'] * (1 - (df['DiscountPercent'] / 100))
 df['ComputedTotal'] = df['Quantity']*df['NetUnitPrice']
 
 # derive value band from computed total
