@@ -1,7 +1,9 @@
 import pandas as pd
 
+# read data
 df = pd.read_csv('support_tickets.csv')
 
+# aggregate ticket metrics per team lead
 dft = df.groupby('team_lead').agg(
     department = ('department', lambda x: x.mode().iloc[0] if not x.mode().empty else x.iloc[0]),
     team_size = ('support_agent', 'nunique'),
