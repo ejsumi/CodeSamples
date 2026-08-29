@@ -16,7 +16,7 @@ df = df.drop(columns=['CustomerID'])
 target_col = 'Churn'
 
 for col in df.columns:
-    if col not in target_col:
+    if col != target_col:  # fix: 'not in' on a string checks substring match, not column identity
         if df[col].dtype == 'object':
             df[col].fillna(df[col].mode()[0],inplace=True)
         else:

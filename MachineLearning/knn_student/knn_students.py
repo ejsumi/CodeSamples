@@ -8,9 +8,11 @@ df = pd.read_csv('knn_student1.csv')
 print(df.head())
 print(df.info())
 
-# Separate features and target, drop student_id
-X = df.drop(columns=['student_id','location'])
-y = df['location']
+# Separate known rows from the row to predict, then drop student_id
+train_mask = df['location'].notna()
+X = df.loc[train_mask].drop(columns=['student_id','location'])
+y = df.loc[train_mask, 'location']
+X_target = df.loc[~train_mask].drop(columns=['student_id','location'])
 
 # One-hot encode features (drop_first=True) and target
 X_en = pd.get_dummies(X, drop_first=True)
@@ -27,14 +29,12 @@ for k in k_values:
     accuracy = knn.score(X_test, y_test)
     print(f"Accuracy for k={k} is {accuracy:.2f}")
 
-# Build prediction row for: Senior, Evening, Small_Group, Project
-dfp = pd.DataFrame({'year_of_study':['Senior'],
-                     'study_time': ['Evening'],
-                     'group_size':['Small_Group'],
-                     'study_purpose':['Project']})
+#knn model
+knn = KNeighborsClassifier(n_neighbors=7)
+knn.fit(X_train, y_train)
 
-# Encode and align prediction row columns to match training data
-dfp_en = pd.get_dummies(dfp,drop_first=True)
+# Encode and align the missing-target row to match training data
+dfp_en = pd.get_dummies(X_target,drop_first=True)
 dfp_en = dfp_en.reindex(columns=X_en.columns,fill_value=0)
 
 # Predict and extract location with highest score

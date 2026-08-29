@@ -42,5 +42,5 @@ accuracy = accuracy_score(y_test.values.argmax(axis=1), y_pred.argmax(axis=1))
 
 # Predict next day's flavor and pick the class with highest score
 pred = model.predict(tomorrow_en)
-predicted_flavor = y.columns[pred.argmax()].replace('flavor_', '')
+predicted_flavor = y.columns[pred.argmax()]  # fix: .replace('flavor_', '') was a no-op since get_dummies used no prefix
 print(f"Next day flavor: {predicted_flavor}")

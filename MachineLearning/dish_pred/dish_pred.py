@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 
 # Load and explore the dataset
-df = pd.read_csv('CodeSamples\MachineLearning\dish_pred\dish_pred.csv')
+df = pd.read_csv('dish_pred.csv')
 print(df.info())
 print(df.head())
 

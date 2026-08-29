@@ -7,7 +7,7 @@ from sklearn.metrics import r2_score, mean_absolute_error, accuracy_score
 
 #read data
 df = pd.read_csv('laptop_data.csv')
-print(df.head())
+print(df.describe())
 
 target_col = 'Price'
 
@@ -16,7 +16,7 @@ catg_cols = ['Brand','Processor','Operating_System','Graphics_Card']
 
 # Fill missing values: mode for categorical, median for numerical
 for col in df.columns:
-    if col not in target_col:
+    if col != target_col:  # fix: 'not in' on a string checks substring match, not column identity
         if df[col].dtype == 'object':
             df[col].fillna(df[col].mode()[0], inplace=True)
         else:
@@ -35,6 +35,7 @@ upper = Q3+1.5*IQR
 df1 = df[(df['RAM_GB']>=lower) & (df['RAM_GB']<=upper)]
 df = df1
 
+# to see the difference
 print(df1.describe())
 
 # Encode categorical columns to numeric using LabelEncoder
@@ -43,7 +44,7 @@ for col in catg_cols:
     df[col] = encoder.fit_transform(df[col])
 
 # Define numerical columns to scale
-num_cols = ['RAM_GB','Storage_GB','Screen_Size','Weight_kg','Operating_System']
+num_cols = ['RAM_GB','Storage_GB','Screen_Size','Weight_kg']  # fix: Operating_System is a label-encoded category, not a continuous value to scale
 
 # Scale numerical columns using StandardScaler
 scaler = StandardScaler()
@@ -57,9 +58,6 @@ data = df.iloc[:-5].copy()
 # Separate features and target
 X= data.drop(target_col,axis=1)
 y = data['Price']
-
-#print(X.shape)
-#print(y.shape)
 
 #train the model
 # Split training data into train and test sets (25% test)
